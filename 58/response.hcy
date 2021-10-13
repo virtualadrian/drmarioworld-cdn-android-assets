@@ -1,0 +1,377 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 20655
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: FANlgP5OtWIcxq1OI0spn3nAautxKdP
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:09 GMT
+Cache-Control: public,max-age=300
+ETag: "d3a1db3c263b268e4a7807901ef6b928"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: qcOhxdCZZkb_dt0-HkiO1TamRFG9eYkQLQ5VbgXSQakJLpF6P0GKjQ==
+
+ManifestFileVersion: 0
+CRC: 3169720997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfe1e2be34cf4f18e6919692bb98391d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e067761f440dc8bbc6a08d7478c6d9a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 844e1ed0a1663d149a60247685f942ba, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17fe03a5cef767f468dd036523867c7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2726f86147845d4aa96e5ea1cb2a4ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9c2a4b73697599418cbb6c0f17cfd4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1a86ec76a7a4014a85faf236c3b267e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89b6c4e8672ef4a4b8e92fbd463d5a90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 311b969fa93ed374d94adbaeefecdeca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3acb6dfaa19a964e9e0ded8e0da15fd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_random_turtle.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Bubble_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Line_Light_00.tga
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/back_item_slot_continueEvent.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Twirl_01.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Spark_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_gold.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Paper_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_pollution_2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_02.mat
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/cube.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_combo.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Ring_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/hidden_rainbow_pattern.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_event.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_01.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_64_r12_box.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/heart.prefab
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Body_Top_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Twirl_00.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Line_05.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_09.png
+- Assets/3.Graphics/UI/Game/Adventure/ic_pause.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_scout_doctormedal_off.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/bubble_world_reward_2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Ring_04.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Particle_Square_00.png
+- Assets/3.Graphics/UI/Game/Adventure/hiddenbox_check.png
+- Assets/3.Graphics/UI/Game/Adventure/patt_dotted_line_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_02.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Body.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/img_rank_mark.png
+- Assets/3.Graphics/UI/Game/Adventure/back_tutorial.png
+- Assets/3.Graphics/UI/Game/Adventure/scout_door_icon_02.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Pill_Rainbow_00.png
+- Assets/3.Graphics/UI/Game/Adventure/lobby_scout_door_icon_hand_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Line_02.png
+- Assets/3.Graphics/UI/Game/Adventure/img_stage_ready_foothold_purple.png
+- Assets/3.Graphics/UI/Game/Adventure/32_r12_box_stroke_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/back_result_reward.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Ring_04.png
+- Assets/3.Graphics/UI/Game/Adventure/img_light_blur.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_CapsuleChange_Off.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star_empty.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Yellow/Eye_Base_Top_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_RainbowStart.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_08.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/el_Rect_roun14.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_randombox.png
+- Assets/3.Graphics/UI/Game/Adventure/128_circle_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/back_dimmed_itemuse.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_10.mat
+- Assets/3.Graphics/UI/Game/Adventure/back_missionpopup_stage_new.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_14.mat
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Triangle_02.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_hammer.png
+- Assets/3.Graphics/UI/Game/Adventure/continue_product_slot.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star_empty_stage.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star_stage.png
+- Assets/3.Graphics/UI/Game/Adventure/back_score2.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/character_border.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_scoreup.png
+- Assets/3.Graphics/UI/Game/Adventure/img_back_time.png
+- Assets/3.Graphics/UI/Game/Adventure/scout_door_icon_hand_02.png
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/cube_back.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_Line_02_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_pollution_1.png
+- Assets/3.Graphics/UI/Game/Adventure/scout_door_icon_frame.png
+- Assets/3.Graphics/UI/Game/Adventure/img_lock.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_dia_off.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Particle_Star_01_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/img_stage_ready_foothold_blue.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_00.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Arrow_04.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Tongue.png
+- Assets/3.Graphics/UI/Game/Adventure/ic_lastbonus_timer.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Boomerang_Line.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Circle_02.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/Animation/AN_Item_ContinueClear_Arrow_02.anim
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_rainbow_pill.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_boomerang.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_combo_plus.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Trail_00_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/btn_close_bigsize_2.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Eye.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_timer.png
+- Assets/3.Graphics/UI/Game/Adventure/4_square_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/continue_product_slot_2.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_02_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/MA_Item_RandomBox_Glow.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/itemuse_target.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Yellow/Eye_Base.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/character_glow.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star_empty2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_skillmax.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Eye.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Trail_06.png
+- Assets/3.Graphics/UI/Game/Adventure/back_bonusresult_score.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Ring_00.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_pollution_3.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_doctormedal.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_01_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/img_stage_ready_foothold_hard.png
+- Assets/3.Graphics/UI/Game/Adventure/back_question_Time2.png
+- Assets/3.Graphics/UI/Game/Adventure/back_result_level.png
+- Assets/3.Graphics/UI/Game/Adventure/back_continue_mission.png
+- Assets/3.Graphics/UI/Game/Adventure/ic_buddy.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_CapsuleChange.png
+- Assets/3.Graphics/UI/Game/Adventure/continue_sale_tag.png
+- Assets/3.Graphics/UI/Game/Adventure/back_launchpad2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_pill.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Paper_00_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Particle_13.png
+- Assets/3.Graphics/UI/Game/Adventure/GameBox_resources/MA_Box_Crossway_Glow_00.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/ItemSlotArrowFX_continueEvent_03.png
+- Assets/3.Graphics/UI/Game/Adventure/back_result_score.png
+- Assets/3.Graphics/UI/Game/Adventure/ic_back_btn.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star3_empty_stage.png
+- Assets/3.Graphics/UI/Game/Adventure/result/img_pill_result2.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Glow_00.png
+- Assets/3.Graphics/UI/Game/Adventure/lobby_scout_door_icon_hand_02.png
+- Assets/3.Graphics/UI/Game/Adventure/lobby_scout_door_icon_02.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_scoutticket.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_random_Skillup.png
+- Assets/3.Graphics/UI/Game/Adventure/img_heart.png
+- Assets/3.Graphics/UI/Game/Adventure/back_launchpad1.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_skillup.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_boomerang.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_fail_circle.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_02.png
+- Assets/3.Graphics/UI/Game/Adventure/back_continue_panel.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_bubble_front.png
+- Assets/3.Graphics/UI/Game/Adventure/back_missionpopup.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_bubble_back.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_clock.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Body_Top_01.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Eye_Base.png
+- Assets/3.Graphics/UI/Game/Adventure/GameBox_resources/ic_popup_crosswaybox_small.png
+- Assets/3.Graphics/UI/Game/Adventure/32_r12_box_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/back_hidden_score.png
+- Assets/3.Graphics/UI/Game/Adventure/img_result_stroke_Rainbow.png
+- Assets/3.Graphics/UI/Game/Adventure/back_bar_star.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_03.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Trail_06.mat
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/back_square_r15.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Line_Light_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Line_05.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Pill_Rainbow_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_03.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_08.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_skillmax_Off.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Mouth.png
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/MA_Glow_02.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Triangle_00.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_pill.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_foot_separated.png
+- Assets/3.Graphics/UI/Game/Adventure/pill_1.png
+- Assets/3.Graphics/UI/Game/Adventure/itemuse_target.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_10.png
+- Assets/3.Graphics/UI/Game/Adventure/ic_scout.png
+- Assets/3.Graphics/UI/Game/Adventure/result/img_stage_result_light.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_dia.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Triangle_03.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Circle_02.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Line_08.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Triangle_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/scout_door_icon_hand_01.png
+- Assets/3.Graphics/UI/Game/Adventure/img_stage_start_arrow.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_foot_hidden.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_00.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Particle_Cross_00.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/bubble_world_reward.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_back_score.png
+- Assets/3.Graphics/UI/Game/Adventure/hidden_rainbow_pattern_piece.png
+- Assets/3.Graphics/UI/Game/Adventure/result/img_pill_result.png
+- Assets/8.AssetBundle/Downloadable/Adventure/Mission_BonusStage.prefab
+- Assets/3.Graphics/UI/Game/Adventure/back_question_Time.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Ring_00.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Yellow/Mouth.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Light_Line_00.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_01.mat
+- Assets/3.Graphics/UI/Game/Adventure/GameBox_resources/img_box_crossway_open.png
+- Assets/3.Graphics/UI/Game/Adventure/img_combo_arrow.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_itemuse.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_hammer_Off.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Trail_06.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/bubble_tooltip_ready.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/Animation/AN_Item_ContinueClear_Arrow_03.anim
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Twirl_01.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Yellow/Eye.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/ItemSlotArrowFX_continueEvent_04.png
+- Assets/8.AssetBundle/Downloadable/Adventure/Mission_HiddenStage.prefab
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Yellow/Body.png
+- Assets/3.Graphics/UI/Game/Adventure/64_r20_box_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Body.png
+- Assets/3.Graphics/UI/Game/Adventure/scout_door_icon_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_random_rainbowbox.png
+- Assets/3.Graphics/UI/Game/Adventure/GameBox_resources/img_box_crossway_01.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Bubble_01.mat
+- Assets/3.Graphics/UI/Game/Adventure/img_light_blur2.png
+- Assets/3.Graphics/UI/Game/Adventure/result/img_stage_result_stroke.png
+- Assets/3.Graphics/UI/Game/Adventure/back_mission.png
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/img_present_lobby.png
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Eye_Base.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_08.png
+- Assets/3.Graphics/UI/Game/Adventure/back_bar_hidden.png
+- Assets/3.Graphics/UI/Game/Adventure/back_missionpopup2.png
+- Assets/3.Graphics/UI/Game/Adventure/pill_2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_rainbow_pill.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Light_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Red/Tongue.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Light_Line_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_ingame_skillmax.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/Animation/AN_Item_ContinueClear_Arrow_01.anim
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/back_circle.png
+- Assets/3.Graphics/UI/Game/Adventure/img_star_empty1.png
+- Assets/3.Graphics/UI/Game/Adventure/img_piece_pattern_Adventure.png
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Paper_00.png
+- Assets/3.Graphics/UI/Game/Adventure/back_missionpopup_stage_hard_tag.png
+- Assets/3.Graphics/UI/Game/Adventure/lobby_scout_door_icon_frame.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_00.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/ItemSlotArrowFX_continueEvent_02.png
+- Assets/3.Graphics/UI/Game/Adventure/img_itemslot_lock.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Particle_Star_02_Add.mat
+- Assets/3.Graphics/UI/Game/Adventure/1.2_Update/back_number_item.png
+- Assets/3.Graphics/UI/Game/Adventure/result/img_star2.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Spark_00.png
+- Assets/3.Graphics/UI/Game/Adventure/img_combo_arrow2.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Particle_Star_02.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_09.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/Virus_Blue/Mouth.png
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/ItemSlotArrowFX_continueEvent.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Glow_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/back_playlimit_stagenum.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_random_bomb.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_Line_02_Add.png
+- Assets/3.Graphics/UI/Game/Adventure/img_check_white.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_14.png
+- Assets/3.Graphics/UI/Game/Adventure/eff_dummy_popup_star.png
+- Assets/3.Graphics/UI/Game/Adventure/back_launchpad3.png
+- Assets/3.Graphics/UI/Game/Adventure/GameBox_resources/ic_popup_crosswaybox_big.png
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/cube_eff.png
+- Assets/3.Graphics/UI/Game/Adventure/back_itemuse.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Light_00.png
+- Assets/3.Graphics/UI/Game/Adventure/randomBox/random_box_big.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Twirl_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/result/FX/MA_Particle_Star_01.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Star_08.png
+- Assets/3.Graphics/UI/Game/Adventure/img_continue_pollution_4.png
+- Assets/3.Graphics/UI/Game/Adventure/btn_stage_hint.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_scout_gold_off.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/ic_item_hammer.png
+- Assets/3.Graphics/UI/Game/Adventure/back_missionpopup_stage.png
+- Assets/3.Graphics/UI/Game/Adventure/lobby_scout_door_icon_01.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Triangle_01.png
+- Assets/3.Graphics/UI/Game/Adventure/img_bonus_circle.png
+- Assets/3.Graphics/UI/Game/Adventure/back_continue_popup.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Arrow_04.png
+- Assets/3.Graphics/UI/Game/Adventure/img_launcher.png
+- Assets/3.Graphics/UI/Game/Adventure/img_stage_ready_foothold_red.png
+- Assets/3.Graphics/UI/Game/Adventure/img_combo_circle.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Glow_Line_02.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Ring_00.mat
+- Assets/3.Graphics/UI/Game/Adventure/Couninue_Event/MA_Line.png
+- Assets/3.Graphics/UI/Game/Adventure/tutorial_hand.png
+- Assets/3.Graphics/UI/Game/Adventure/FX/MA_Trail_00.png
+- Assets/3.Graphics/UI/Game/Adventure/item_UI/FX/MA_Trail_06.mat
+- Assets/3.Graphics/UI/Game/Adventure/back_readypopup_hiddenstage_new.png
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

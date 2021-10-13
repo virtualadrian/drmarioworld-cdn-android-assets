@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 565
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: eu3oC9eubU1cHVVl2F4Mc1NS1EpbYmB
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:26 GMT
+Cache-Control: public,max-age=300
+ETag: "f71d40ab7be0ead3eb25dee6be390e3b"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: APp9Sw1mbfowaBBi8AwQpmKiJRd9u4Ig8of4VKsPuvHdTR2KpmCVcA==
+
+ManifestFileVersion: 0
+CRC: 2430808176
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0032b7955647969ccfb3f05cc7a0b19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrMario/DrMario.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrMario/DrMario_half.png
+Dependencies: []

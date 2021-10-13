@@ -1,0 +1,137 @@
+ManifestFileVersion: 0
+CRC: 3923584484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07fbbcfdeac3664cc881fd0caa352722
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53282017b446395cf90d11d6480c6f4f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8d5ba1d34ca7004ab3e84e3d3d7f914, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_MagnifyingGlass_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Light.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_lose.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_Star.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_ready_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_ready_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_R_D_mirror.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_Star.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/AN_Skill_A_BG_DrDotMario.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_01_mirror.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_01_s.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Glow_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_02_s.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Ring_SP.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Ring_SP.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario.prefab
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_01_mirror.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_R_D.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_R_D.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/characterskillinfo_drdotmario.json
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Light.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Glow_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_MagnifyingGlass_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Glow_Add.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Glow_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/DrDotMario.controller
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_ready_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_ready_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Glow_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Ring_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Ring_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Card.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/EF_Skill_M_DrDotMario_Idle.prefab
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_02_mirror.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Ring_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Lock_Pixel.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_R_D_mirror.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_01_s.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/idle_multi.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_02.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/EF_Skill_A_BG_DrDotMario.prefab
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_lose.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_Pill.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_01.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMario_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_02.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_m_attack_02_mirror.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_02_s.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Materials/DrDotMario_W_R_01.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/DrDotMarioModel.FBX
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Particle_Pill.mat
+- Assets/8.AssetBundle/Characters/character.drdotmario/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_M_DrDotMario/MA_Lock_Pixel.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/EF_Skill_M_DrDotMario_Destroy.prefab
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/EF_Skill_M_DrDotMario_Creation.prefab
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/BG_Skill_A_Dr.DotMario.png
+- Assets/8.AssetBundle/Characters/character.drdotmario/FX/Skill_A_DrDotMario/MA_Ring_02.png
+Dependencies: []

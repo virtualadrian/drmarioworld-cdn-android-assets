@@ -1,0 +1,76 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2061
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: HP5dsdqCaxwrZ4kBrHwvogh7MeSs0o8
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:50 GMT
+Cache-Control: public,max-age=300
+ETag: "b1af5756c82e3d4e8197f0b47115203e"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: krYGvD4Mm8XS7GM1YeGen8ldeck197vkpwXTogtSvvHiV3P0X4Zn6w==
+
+ManifestFileVersion: 0
+CRC: 3823639863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6e17288cb2fea6649896e5855014268f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f275e2df199b4ad2d0051646ac832f8e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d57d1227fa7fd85479e977144a9494bf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Materials/MA_Particle_Bubble_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Materials/MA_Particle_Star_04.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Materials/MA_Glow_SP_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Textures/MA_Particle_Bubble_01.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Textures/MA_Glow_SP_00.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Animation/AN_Block_Bubble.controller
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Animation/AN_Block_Bubble_Stop.anim
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/BlockStatusBubble.prefab
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Animation/AN_Block_Bubble_Up.anim
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Textures/MA_Particle_Star_04.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbubble/Assets/Textures/bubble.png
+Dependencies: []

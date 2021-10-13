@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1306347130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dadd24c504e47a818fd188192bf01579
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_dolphin_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_chainchomp_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_flyguy.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_boomerangbro_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_boomerangbro.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_boomerangbro_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_flyguy_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_chainchomp_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_dolphin.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_chainchomp.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_flyguy_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_dolphin_empty.png
+Dependencies: []

@@ -1,0 +1,47 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 898
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: xJklpOhQBVVVEn4ft0XdEjjIfHHieay
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:42 GMT
+Cache-Control: public,max-age=300
+ETag: "bc19b56121844e6437d65fcd4d604fe5"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 8sWRrX0KBdvIRoN--U9m2eWLbmzBuH6_XHF_2kJ65jsBdhFVLt3z8g==
+
+ManifestFileVersion: 0
+CRC: 4040056322
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74a00733294ceb7db0f685763342c4d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/League/Box/league_box6.png
+- Assets/8.AssetBundle/League/Box/league_box10.png
+- Assets/8.AssetBundle/League/Box/league_box8.png
+- Assets/8.AssetBundle/League/Box/league_box4.png
+- Assets/8.AssetBundle/League/Box/league_box1.png
+- Assets/8.AssetBundle/League/Box/league_box7.png
+- Assets/8.AssetBundle/League/Box/league_box5.png
+- Assets/8.AssetBundle/League/Box/league_box9.png
+- Assets/8.AssetBundle/League/Box/league_box11.png
+- Assets/8.AssetBundle/League/Box/league_box3.png
+- Assets/8.AssetBundle/League/Box/league_box2.png
+Dependencies: []

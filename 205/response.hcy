@@ -1,0 +1,123 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 4259
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: 5T.SpmrWsgXW-2POt8Lb9bBw36JZERm
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:32 GMT
+Cache-Control: public,max-age=300
+ETag: "556bd2fc35ab70de5b65b5fea4c06c1c"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: TlLdYOl_1pwP78fcDfEqpuO5L9MBA6XfnJqJ5Px7y6_a8-3RwsFXQQ==
+
+ManifestFileVersion: 0
+CRC: 998247032
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba8b14c0a0c9518aff96e8e3b9ea2e75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2112370d3e7445f201fc7e615a132e9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41825ba345d35224b81e9e90d6a40307, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d338f4166241b414a87d53683b95c81a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34899e08f6ff23142bb94b6a9cc2e2ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 867ba4f8de0f4dd49942c2391f5d1cdb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4c83319c68572a42adc6c88b21205ec, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f99599d2a30c34fa900eae0f54562c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6dfcceb1c732c44d9f1115aeeb3fa53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90076c4dda59c29449d3ec774b50e63f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac9825cd7559c37428a8a50cae2c7810, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39c9eaedcb1861e4c86b20b25f1b2515, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 38d393dee4dce9647b3be4db289af623, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 279ac30f612507b4db83df5d5e878753, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/PopupEventEventStageRoundRewardTooltip.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/sub/EventStageBase.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/PopupEventStageRoundReward.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/MenuIconEventStageGauge.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/sub/EventStageBaseWithoutStar.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/sub/EventStageClearGrade.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/PopupEventEventStage.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/common/sub/RoundInfoTemplate.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/block.virusgreen
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/block.virussky
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/block.viruspink
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

@@ -1,0 +1,78 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1613
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: ACKah55kE0hCoXnJw04cS0e9SfLaJly
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876276
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:28 GMT
+Cache-Control: public,max-age=300
+ETag: "a4be9f42ba0a822e7d3fecdeb99cbf5c"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: iK_CRfx5SVmjbrKHx31FHKQliBkqTYEM359uePoPhiT6hB0xXpsXTQ==
+
+ManifestFileVersion: 0
+CRC: 3431252336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 980154f8f61d5e17ff001ef618a2b13b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cd84d68570bc9e7349bb5a17ccdec37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f92018a11ce1c244985f5ad5197183cc, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344c731232c7f8c4aa2c672134d3c43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Lobby/world7/BG_stage_w7.prefab
+- Assets/8.AssetBundle/Lobby/world7/Background_w7.png
+- Assets/8.AssetBundle/Lobby/world7/chapter14.prefab
+- Assets/8.AssetBundle/Lobby/world7/chapter13.prefab
+Dependencies: []

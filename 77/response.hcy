@@ -1,0 +1,48 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1439
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: dX3iSJfDqGXVgZzgbEWghiJN5Ec0OB5
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:05 GMT
+Cache-Control: public,max-age=300
+ETag: "6386228ba14a08dcb63676414c112061"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: dW40O6m4p4g2g5HU7fl5QiPhGeN6J5NRMWurz3_wS5e3DENgp0E9rg==
+
+ManifestFileVersion: 0
+CRC: 1306347130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dadd24c504e47a818fd188192bf01579
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_dolphin_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_chainchomp_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_flyguy.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_boomerangbro_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_boomerangbro.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_boomerangbro_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_flyguy_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_chainchomp_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_dolphin.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_chainchomp.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_flyguy_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_dolphin_empty.png
+Dependencies: []

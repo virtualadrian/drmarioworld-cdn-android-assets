@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3454635580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7ed4eaed6688886b7b5c864ca02a60b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4adb09ab8738d773b16cce1da14f36fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a880b85610f0a14d86c4b90e6533e06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmicksoap/BlockGimmickSoap.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmicksoap/icon.png
+Dependencies: []

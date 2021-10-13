@@ -1,0 +1,55 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 926
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: Ok7RoAivYUjplFWTWt7bcoXLq3eWOAr
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:51 GMT
+Cache-Control: public,max-age=300
+ETag: "5b69df4ccd9f95cbadf4337c1066a381"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: MoX6KDOCjowAIvYfjavq5_8IAmmZU61bDr_h2kcKEBJJgbVNlHJrZQ==
+
+ManifestFileVersion: 0
+CRC: 2466334580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71faff21d024d27fc2010650c2eefbc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1385e4872f5f48ae14baa178293bb0ad
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df9b017d23987e5468ebab8dba5829b1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockstatusmask/BlockStatusMask.prefab
+Dependencies: []

@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 569
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: praqz-8e8c7bUWb8LQWCu9L1sL.0mYy
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:27 GMT
+Cache-Control: public,max-age=300
+ETag: "db72c870ce6ad1afaafc718f89ee161f"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 5YCHFi1QxTq4DT18cytb06LodcO0I5PI3C0Z6zZ1R6g01LNltjBtAQ==
+
+ManifestFileVersion: 0
+CRC: 4222271987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03a855e3f6e57a35d85ac0e00445adab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrNabbit/DrNabbit_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrNabbit/DrNabbit.png
+Dependencies: []

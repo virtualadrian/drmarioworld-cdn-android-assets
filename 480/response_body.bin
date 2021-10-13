@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1176581914
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 045490b6ebc24e18613f1088d79a5abc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_hit.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/BGM_Multi_Lobby01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_stage_base_light.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_sub_cutin.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MMR_Down.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_Search_Fail01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_blockline1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_DrMedal_Get01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_full.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_league_up.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skill_peach.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_blockline.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skillseq1_appear.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_box_key_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_sub_normalattack.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MMR_Up.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_thumbnail_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_blockline4.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/34_Finish.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_sub_skillattack.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_hurryup.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_win_soon.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skillseq2_throw.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skillseq3_hit.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_box_mix_open.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_hit2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MultiLeagueReset_Coin_End01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MultiLeagueReset_Coin_Start01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MultiLeagueReset_in01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_throw1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_league_down.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_throw.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_go.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/GameResult_Win_BGM.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MultiLeagueReset_Coin_Loop01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_box_open.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_box_key_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_throw4.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/Result_win.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/InGameBGM_Multi.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skill_cutin.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_defense.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_vs.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_box_select.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_blockline3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/GameResult_Lose_BGM.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_MultiLeagueReset_PointDown01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skill_mario.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/Result_League.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_blockline2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_matching.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_throw2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_attack_throw3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drmm/SFX_skill_luigi.wav
+Dependencies: []

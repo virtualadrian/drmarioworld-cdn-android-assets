@@ -1,0 +1,18 @@
+{
+  "app": "com.nintendo.zama",
+  "duration": "351ms",
+  "headers": {
+    "X-Unity-Version": "2018.4.21f1",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)",
+    "Host": "game-lgmatcha.line-scdn.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "6a2a8040-49bb-41a4-8d4f-281237e3933f",
+  "time": "2021-10-13 21:19:26",
+  "url": "https://game-lgmatcha.line-scdn.net/r/real/AssetBundles/Android/829/character.sprite.wholebody.drnabbit"
+}

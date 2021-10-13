@@ -1,0 +1,83 @@
+ManifestFileVersion: 0
+CRC: 716477324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 28df05cb75ee27882078074a1652c6eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drwario/characterskillinfo_drwario.json
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Thumbnail_sad.png
+- Assets/8.AssetBundle/Characters/character.drwario/EF_Skill_A_BG_DrWario.prefab
+- Assets/8.AssetBundle/Characters/character.drwario/Materials/DrWario_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario.prefab
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/skill_m_1.anim
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario.controller
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drwario/Materials/Dr.wario_dif.png
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Skill_Time.png
+- Assets/8.AssetBundle/Characters/character.drwario/Materials/DrWario_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Card.png
+- Assets/8.AssetBundle/Characters/character.drwario/Materials/Dr.wario_dif_Rare.png
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Skill_Pill.png
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drwario/Materials/Dr.wario_spec.png
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drwario/DrWario001.FBX
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/skill_a_1.anim
+- Assets/8.AssetBundle/Characters/character.drwario/Anim/groggy_idle.anim
+Dependencies: []

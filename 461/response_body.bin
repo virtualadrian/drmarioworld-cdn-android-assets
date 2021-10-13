@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 3012091688
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 358656cbb7f7db1c356d839d6f9dcfd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 614a034b9e45a8ced846d888a5f057c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d684d90d1d064c478ab56908603ed0a, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask_02.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Ring.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Label_Cannon.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Light_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Particle_Line.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Particle.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Flask_Glow_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask_Active.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Flask_Glow_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Flask_Cap.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask_01.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Label_Tuttle.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Light_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Glow.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Flask_Glow_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/BlockGimmickHelpFlask.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Particle_Line.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Flask_Glow_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Flask_Inside.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Flask_Bottole_Back.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Label_Skillup.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Glow.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask.controller
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Ring.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Guide_Block_HelpFlask.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Particle_Star_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask_Full.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Flask_Bottole_Front.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/MA_Light_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Animation/AN_Block_HelpFlask_03.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Materials/MA_Particle.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickhelpflask/Assets/Textures/Label_Bomb.png
+Dependencies: []

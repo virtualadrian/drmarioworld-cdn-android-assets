@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 319364693
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89ea40c2c2b597f1da587bf9ec6c8d0f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/League/Mark/league_mark4.png
+- Assets/8.AssetBundle/League/Mark/league_mark7.png
+- Assets/8.AssetBundle/League/Mark/league_mark6.png
+- Assets/8.AssetBundle/League/Mark/league_mark10.png
+- Assets/8.AssetBundle/League/Mark/league_mark2.png
+- Assets/8.AssetBundle/League/Mark/league_mark9.png
+- Assets/8.AssetBundle/League/Mark/league_mark11.png
+- Assets/8.AssetBundle/League/Mark/league_question.png
+- Assets/8.AssetBundle/League/Mark/league_mark3.png
+- Assets/8.AssetBundle/League/Mark/league_mark1.png
+- Assets/8.AssetBundle/League/Mark/league_mark8.png
+- Assets/8.AssetBundle/League/Mark/league_mark5.png
+Dependencies: []

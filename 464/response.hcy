@@ -1,0 +1,63 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1650
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: C5efOWD6qO-QK5m52y-6.UA1hmUA164
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:42 GMT
+Cache-Control: public,max-age=300
+ETag: "07d950260a3fcad8661a60606c1fd1b3"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: TyJfROkTlTSH_Ap2deaJ6LfF0MfT2WLz-EIYxewiODSPSCCENI8jCA==
+
+ManifestFileVersion: 0
+CRC: 2445626550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 193b717616e23cf1b9d3214e90ddce64
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c7821a512d57c8ec690828f9f332b42
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb161c2be25121d4bbee0745a071eb75, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_green.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/BlockGimmickColorBrick.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_pink.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_purple.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_sky.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_blue.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/Assets/Textures/Wood_Red.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_yellow.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickcolorbrick/icon_red.png
+Dependencies: []

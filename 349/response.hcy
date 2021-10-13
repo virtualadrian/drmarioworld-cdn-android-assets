@@ -1,0 +1,103 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 3370
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: 3Vb4o4N2aD1x7dtfQFyb8bt9WE8HSlH
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:05 GMT
+Cache-Control: public,max-age=300
+ETag: "608e55a5246f273ab2564701257f2dc3"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: K34WLA30rEYJ31g92shLr2BErBThoWHD5CI4yj2f3UCG2vvy0KOdPg==
+
+ManifestFileVersion: 0
+CRC: 2996602670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 347efaeb7838e3ebe8b396433e95fe02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e9879f9554c8354dda84450cd421c97b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMarioModel.FBX
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/Skill_A_DrFireMario_BG/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/EF_Skill_A_BG_DrFireMario.prefab
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/Materials/Dr.Mrio_fire_dif.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/AN_Skill_A_BG_DrFireMario.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/AN_Skill_A_DrFireMario.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/Skill_A_DrFireMario_BG/BG_Skill_A_Dr.FireMario_Dimd.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Card.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/Materials/DrFireMario_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario.prefab
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/DrFierMario.controller
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/characterskillinfo_drfiremario.json
+- Assets/8.AssetBundle/Characters/character.drfiremario/FX/Skill_A_DrFireMario_BG/BG_Skill_A_Dr.FireMario.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drfiremario/DrFireMario_Thumbnail_Sad.png
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drfirepeach

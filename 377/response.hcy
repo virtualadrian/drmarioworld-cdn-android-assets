@@ -1,0 +1,122 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 5542
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: o5odCg-aO2uvN1sl1P4Pecn5X99xjNK
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:58 GMT
+Cache-Control: public,max-age=300
+ETag: "53afaeef1b7359ae092f4e564293412c"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: bBHIr6YHEWJswamW4nby25b7Ae_TpDJejWCZu2vXKWFfuSRSLlbwVw==
+
+ManifestFileVersion: 0
+CRC: 1048655425
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a543e8865b6a82b9d606f17f00a5f228
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Syring_00.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Glow_06_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_00.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_01.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Glow_06.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/EF_Skill_A_BG_DrBabyMario.prefab
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario.prefab
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/DrBabyMario.controller
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Syring_02.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/characterskillinfo_drbabymario.json
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Glow_04.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Particle_08.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_05.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Circle_02.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Light_02.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_04.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Syring_01.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Card.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/Materials/DrBabyMario_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/Materials/DrBabyMario_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Particle_08.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario/MA_Glow_04.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_02.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMarioModel.FBX
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/DrBabyMario_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Cross_03.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/AN_Skill_A_Baby_Dr.Mario.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Particle_Star_01_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbabymario/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabymario/Materials/Dr.baby_mario_dif.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/Materials/Dr.baby_mario_dif_Rare.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Light_01.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/MA_Circle_02.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/Skill_A_DrBabyMario_BG/BG_Skill_A_Baby_Dr.Mario.png
+- Assets/8.AssetBundle/Characters/character.drbabymario/FX/AN_Skill_A_Baby_Dr.Mario_BG.anim
+Dependencies: []

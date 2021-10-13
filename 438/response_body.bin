@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2304985804
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3ba3a064879fa4d9d81785480ee5ff2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cbd4f947b7debc0275512731ec4ba031
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0603b32b048b0e740a0390054c1869ce, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/EF_Block_QuestionBox_Creation.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Materials/MA_Block_QuestionBox_Glow_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/BlockHelpRandom.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Materials/MA_Ring_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/MA_Ring_03.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Animation/AN_Block_QuestionBox_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Materials/MA_Particle_Star_02_Add.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/QuestionBox.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/MA_Block_QuestionBox_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Guide_Block_QuestionBox.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Materials/MA_Particle_07_Add.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/QuestionBox_Mark.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/QuestionBox_Mark_Shadow.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprandom/Assets/Textures/MA_Particle_07.png
+Dependencies: []

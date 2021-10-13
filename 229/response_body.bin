@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2701866556
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f838c8fd3e191c7bb2057d986fa956c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrPiranhaPlant/DrPiranhaPlant.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrPiranhaPlant/DrPiranhaPlant_half.png
+Dependencies: []

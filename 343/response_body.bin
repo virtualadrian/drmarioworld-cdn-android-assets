@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 166204652
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af3984ce089462a11504207f26f79a9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_Shadow.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Emblem_GoombaTower.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Foot_02_R.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Star.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Eye_Bottom.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Foot_02_L.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Smoke_01.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Head.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/DrGoombatower.controller
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatowerModel.FBX
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Smoke.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Foot_01_L.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Feature.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Foot_01_R.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Foot.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/BG_Bottom.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Head.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/characterskillinfo_drgoombatower.json
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Materials/DrGoombatower_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Emblem_GoombaTower.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Trail.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Foot_L_01.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Eyebrow.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Feature.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower.prefab
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Body.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Arrow.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Body.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Smoke.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Materials/DrGoombatower_dif.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Body.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Smoke_02.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Smoke_02.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_02_Foot_02_R.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Star.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Foot_02_L.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower/MA_Trail.mat
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/AN_Skill_A_BG_DrGoombaTower.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Card.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_03_Head.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/DrGoombatower_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/BG.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/Goomba_01_Eye_Top.png
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/EF_Skill_A_BG_DrGoombaTower.prefab
+- Assets/8.AssetBundle/Characters/character.drgoombatower/FX/Skill_A_DrGoombaTower_BG/MA_Arrow.mat
+Dependencies: []

@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 623
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: KrMbrgeRbc1hxpCts805gVlfO4XYu05
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:05 GMT
+Cache-Control: public,max-age=300
+ETag: "a8eac810b76738daab585bf50808dc1e"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: YNnbH4lZ7hj6Kyalm3yfwamj3wD98uwvOjFhdSIrmhuUPiiSaParKw==
+
+ManifestFileVersion: 0
+CRC: 2143565887
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93fb5a907b0f43911040d9f07107a1ab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_bonegoomba_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_bonegoomba.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_bonegoomba_normal.png
+Dependencies: []

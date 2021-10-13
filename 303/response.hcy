@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 580
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: dlCvyDOI9kM.u6RWIeQCSy-veegG1hF
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:17 GMT
+Cache-Control: public,max-age=300
+ETag: "2ed7bd90e9161863635fe9a4d8e75409"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: fptu-jEjg8GvSqYYPWbNodQkR_aveB3IWYszniYTao2OXVnxJiORuw==
+
+ManifestFileVersion: 0
+CRC: 378698082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 799258c743f5347f923ac46323b6aefb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrBabyDaisy/DrBabyDaisy.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrBabyDaisy/DrBabyDaisy_half.png
+Dependencies: []

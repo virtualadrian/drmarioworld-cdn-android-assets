@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1088121530
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 607f77db0108f644cfa2f81bb3eed54e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 423a9e59968cd08f2d10e447d6b23218
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a25a04e57e06c40f39cb56b6035484f7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f72d9c6a8f66a42eb998421a0f698b8b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.buffrewardinfo.dracademy/PopupBuffRewardInfo.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

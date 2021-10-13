@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3674425643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc508fda809404198abbe95884a32f0e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 27ee3f81d77eb8d17e9cae73965b70e8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7618ee9174aab498286536c876ad38e4, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5fda572494464381b3222b8052a2541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2059275373861441ab05813e40295a6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd0767040d4d54119a92d3bf6fd16bf4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d338f4166241b414a87d53683b95c81a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc651e4649f41034690aa2b6a63c2368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 816f3dea094fe420e979b67d3d46ec2d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.reward.dracademy/PopupRewardAcademy.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

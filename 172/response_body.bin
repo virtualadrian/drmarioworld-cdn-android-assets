@@ -1,0 +1,134 @@
+ManifestFileVersion: 0
+CRC: 1916011454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a786aaff0107876cdfca7dc910cc4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f559b6c6a8189f6091606f7be7d3ba3b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3a32bb616f255eb4598c0c77fb647763, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 153e028467dcbb44385befb085dd2f73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d0097e55e169ab4b858b7600881cdc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03addfe7d40de134e9998c1e8fefbb49, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c98598a87c73ca14488306098a1eaa81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6846b84c2a29e8149a1922bdfdf18f65, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90076c4dda59c29449d3ec774b50e63f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/TooltipBgFail_continuousEvent3.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_05.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_03.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_02.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Particle_01.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/PopupEventStageContinuousClearFail.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/TooltipBgFail_continuousEvent2.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/4_square_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/slotOnFXArrow_continuousEvent_02.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/EventStageContinuousClearBoostItemIcon.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/MenuIcon_StageContinuousClear.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/PopupEventStageContinuousClear.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_02.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/mainpopSlot1_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_05.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/slotOnFXArrow_continuousEvent_04.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_03.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/slotOnFXArrow_continuousEvent_03.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/EventStageContinuousClearBoostItemsSlot.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_04.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/gage_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Line_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Popup_ContinueClear_Arrow_03.anim
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/img_hospitalBox_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/EventStageContinuousClearFailTooltip.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/64_r20_box_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Glow_02.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Particle_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/64_r30_box_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/RoundRect_menu_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/MenuIcon_ContinueClear.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/back_deco_popup_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Particle_Star_01.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Popup_ContinueClear_Lose.anim
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Glow_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/back_popup_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/slotOnFX_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/FailMark_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Smoke_04.mat
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Popup_ContinueClear_Arrow_01.anim
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Light_01.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Popup_ContinueClear_Arrow_02.anim
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/MA_Glow_02.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/btn_popup_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/slotOnFXArrow_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Tooltip_ContinueClear_Close.anim
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Textures/back_multi_lobby_menu_continuousEvent.png
+- Assets/8.AssetBundle/Downloadable/Popup/Event/StageContinuousClear/Animation/AN_Tooltip_ContinueClear_Open.anim
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

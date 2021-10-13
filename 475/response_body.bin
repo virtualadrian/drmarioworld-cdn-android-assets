@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 4188509023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e14189e9db515b13803dd489a19dc7cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Prison01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_MakeBubble01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_HelpFlask_Enter.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Move01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Bulb_Out01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_ColourBox01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_MakeBubble02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_WoodBox01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Prison02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_WoodBox02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_BlockMask2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_BlockMask1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_Bomb_Electric.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Move02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_HelpFlask_Scatter.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel02.wav
+Dependencies: []

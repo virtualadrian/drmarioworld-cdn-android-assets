@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2377875187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb2b4516fabb17be01b8d8169a20e309
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b11673a1a36bc40cde2da8eeead0b2df
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a1869f9c66ef44e8764183935f434b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/Barrel_Front.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/MA_Particle_Star_12.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Materials/MA_Particle_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/MA_Particle_Wood_01.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/BlockStatusBox.prefab
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Materials/MA_Particle_Wood_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Materials/MA_Particle_Star_12.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/MA_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/Barrel.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/Barrel_Back.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/MA_Particle_03.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Materials/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Textures/MA_Smoke_01.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusbox/Assets/Materials/MA_Glow_00.mat
+Dependencies: []

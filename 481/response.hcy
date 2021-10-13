@@ -1,0 +1,59 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2130
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:31 GMT
+x-amz-version-id: ofGC9s4ERytPF37v5qXdRgytckfsIwF
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:37 GMT
+Cache-Control: public,max-age=300
+ETag: "0ece2ae0dc5fd4cce854bd3cc50e9f35"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 8EdV-GPRtsm7YdMgK4A-pAScKvLKwv7gfleDFBAdTnkFRTngO-JOuQ==
+
+ManifestFileVersion: 0
+CRC: 307096723
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4da3885a97373d168c829bc8c878040
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/BGM_Ending.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/BGM_Event_Stage01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Buff.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Museum_Unlock02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Event_in01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_CharacterList_Costume_SubSlot_Notice01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Event_in02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_inGame_RotaryCannon_Rotation.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_PollutionCoin_Hit.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Museum_Unlock01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/GachaBGM.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Gacha_Get_Main01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_LoginBonus_Check01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Event_in_Sub01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_hiddenstage.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_GachaBox_End02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_GachaBox_Loop01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_CharacterList_Costume_Change01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_CharacterList_Costume_MainSlot_in01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Museum_Round01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Gacha_Get_Sub01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_LoginBonus_Check02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Rank_Up01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_GachaBox_End01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.drm/SFX_Gacha_Get_Rare01.wav
+Dependencies: []

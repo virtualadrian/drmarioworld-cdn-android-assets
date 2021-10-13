@@ -1,0 +1,70 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1411
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: ofX.Cl32Vmi4RNaummw8gKxXWSyKssl
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:14 GMT
+Cache-Control: public,max-age=300
+ETag: "257eeba1d2c71fc36fc983c183867f00"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: _wIanPUUfZOxx80OjFOP7Kr1O6wd5FSTBfkyUFuZse8UjUx9OO1AEg==
+
+ManifestFileVersion: 0
+CRC: 359106146
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40e42bb2708c33b6f401817d9eee574d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8a7a0d2852687e6e75cc9fa5ce639b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f92018a11ce1c244985f5ad5197183cc, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344c731232c7f8c4aa2c672134d3c43a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Lobby/World18/chapter36.prefab
+- Assets/8.AssetBundle/Lobby/World18/chapter35.prefab
+- Assets/8.AssetBundle/Lobby/World18/BG_stage_w18.prefab
+- Assets/8.AssetBundle/Lobby/World18/Background_w18.png
+Dependencies: []

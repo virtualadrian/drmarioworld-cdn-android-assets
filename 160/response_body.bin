@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 246657792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e997897c14f9f82441084d251f50cce0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 213c5d2f8ff460d79fe739c83290a298
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l3.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l11_1.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l7.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l11_3.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l6.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l10.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l1.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l11_2.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l2.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l8.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l4.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l9.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.buddypopup/BG_multi_l5.prefab
+Dependencies: []

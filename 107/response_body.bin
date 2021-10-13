@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1217991130
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a82bec36b19d8576d0ce3fa1efd8dfd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cec373b3ae661fd95325fc21c44245c7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88ece26b65b56594ebbf43d4e7cd8f7f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/SpriteAssets/SpriteAssetResource.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update11
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update15
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.open
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update3
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update14
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update4
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update2
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.leagueseason3
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update12
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update10
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update8
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update6
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update1
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update7
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update5
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update19
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update13
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update9
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update18
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/subcharacter.sprite.update16

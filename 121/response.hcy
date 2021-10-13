@@ -1,0 +1,138 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 4216
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: h0G3p1QUQYuJDV3Tgqq-qVJWW1JiOeD
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876274
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:54 GMT
+Cache-Control: public,max-age=300
+ETag: "15830481af3ea6405d6bc58c55b83b22"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: FH8Y1haXBzTHwB5vnS1Ch_UYBMlrvJoeMDFmlnCYq2x8Ma4xOnj7HQ==
+
+ManifestFileVersion: 0
+CRC: 525018618
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0328cb776ac3e7f573faa85969efd90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fff488dda90ee925c2662231fde5793f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12c433908bba54ef79c3737771c40d27, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 181dc13194613444589ebab448d53ece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5de50b14389a4e138cf44ed4f30af93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f54ebed1852604895b6754b354d0d731, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6db77ea478aa6674e9bf405fd4607bd9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66211cc47a118bf4e8dbce7f30c3bfea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd57f895801670041a4a02c60d23a887, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 211607f551b5e6443bf83310c23ce215, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc651e4649f41034690aa2b6a63c2368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69f3a31800842462a8347a8f45307322, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef41bc09b26a74847bead51c019f4db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c516975ac7c1d9341af6b408ebd00471, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f72d9c6a8f66a42eb998421a0f698b8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 816f3dea094fe420e979b67d3d46ec2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e94141f234943947b45b6495b179ca9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d78b8c3f745b605479c334752ddab25b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.ready.dracademy/PopupReadyAcademy.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/bg.dracademy
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

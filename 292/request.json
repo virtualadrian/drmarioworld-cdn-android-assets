@@ -1,0 +1,18 @@
+{
+  "app": "com.nintendo.zama",
+  "duration": "361ms",
+  "headers": {
+    "X-Unity-Version": "2018.4.21f1",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)",
+    "Host": "game-lgmatcha.line-scdn.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "7e9bbe99-ef3b-4cf0-b5fd-ea8f2942323c",
+  "time": "2021-10-13 21:19:19",
+  "url": "https://game-lgmatcha.line-scdn.net/r/real/AssetBundles/Android/829/character.sprite.wholebody.drbabyrosalina.manifest"
+}

@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2959032256
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: da7de942345928f8b6ebb00a9fde9192
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_anttrooper.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_anttrooper_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_whomp_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_whomp_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_anttrooper_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_whomp.png
+Dependencies: []

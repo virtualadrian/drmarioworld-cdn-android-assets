@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 3760168741
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 601538f31d2e8f3a62eff19611e50ba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c46d48bedc3d3b2c7f2d92d8d3a76850
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e30e1034f2b49d4c8976ca250a2cff8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 41825ba345d35224b81e9e90d6a40307, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a04caffcfe32ff647b7a47cfd566e61e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90076c4dda59c29449d3ec774b50e63f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f53b2c6e8b15cda4a99d3557b780f78f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/Popup/Event/Reward/PopupRewards.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/Reward/EventRewardItem.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

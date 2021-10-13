@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3846431837
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0c5964f8c1ceeb5deee953d3867a7cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3cc209e5d4e920d26ec0eac24959975
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb1b91a76dd3be649b735698141d4727, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f99599d2a30c34fa900eae0f54562c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockmissionlockeddoor/Asssets/GameBlockGimmickDoor.prefab
+- Assets/8.AssetBundle/Blocks/block.blockmissionlockeddoor/BlockMissionLockedDoor.prefab
+- Assets/8.AssetBundle/Blocks/block.blockmissionlockeddoor/Asssets/Textures/gimmick_door.png
+- Assets/8.AssetBundle/Blocks/block.blockmissionlockeddoor/icon.png
+Dependencies: []

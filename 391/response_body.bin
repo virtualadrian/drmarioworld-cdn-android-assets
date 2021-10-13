@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2824742853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8c007f96c9fe0b30ca7d753b101b8aaf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e4c384320ebf89b3b734fb8edcd00e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f99599d2a30c34fa900eae0f54562c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Animation/Virus_Original_YellowGreen_Ori.anim
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Body_Top_02.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Mouth.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Tongue.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Body.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Body_Top_01.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Eye_Base.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/Assets/Textures/Eye_01.png
+- Assets/8.AssetBundle/Blocks/block.virusgreen/VirusGreen.prefab
+Dependencies: []

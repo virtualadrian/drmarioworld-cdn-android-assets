@@ -1,0 +1,30 @@
+{
+  "app": "com.nintendo.zama",
+  "code": 200,
+  "duration": "329ms",
+  "headers": {
+    "Content-Type": "text/cache-manifest; charset\u003dutf-8",
+    "Content-Length": "1411",
+    "Connection": "keep-alive",
+    "Server": "VOS",
+    "Accept-Ranges": "bytes",
+    "Last-Modified": "Thu, 26 Aug 2021 05:57:34 GMT",
+    "x-amz-version-id": "ofX.Cl32Vmi4RNaummw8gKxXWSyKssl",
+    "x-rgw-object-type": "Normal",
+    "x-amz-meta-mtime": "1629876275",
+    "Strict-Transport-Security": "max-age\u003d15768000",
+    "Date": "Wed, 13 Oct 2021 16:20:14 GMT",
+    "Cache-Control": "public,max-age\u003d300",
+    "ETag": "\"257eeba1d2c71fc36fc983c183867f00\"",
+    "X-Cache": "RefreshHit from cloudfront",
+    "Via": "1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)",
+    "X-Amz-Cf-Pop": "ARN1-C1",
+    "X-Amz-Cf-Id": "_wIanPUUfZOxx80OjFOP7Kr1O6wd5FSTBfkyUFuZse8UjUx9OO1AEg\u003d\u003d"
+  },
+  "message": "OK",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "54cee844-be66-468c-ad17-5fcdf31d78b9",
+  "time": "2021-10-13 21:20:14"
+}

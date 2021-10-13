@@ -1,0 +1,77 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2296
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: .-mOuNIgwIFCiXi.q6xS-9lWbTR7i-5
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:53 GMT
+Cache-Control: public,max-age=300
+ETag: "82aceb01928590b05436bf2979d74949"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: RAnO-D4oFQnGaMelH7iyeNvtdlpdeXbNtPE_QWw2gHNsfnpYZUbdHQ==
+
+ManifestFileVersion: 0
+CRC: 4253293014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2cf902cb06f81c96a38cef389d3aa0a3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30646e03b78b34deb5a1b9eec19baa67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2935c29fe6fa9b74580a75c1c4d7d34a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/MoveVirusYellow.prefab
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_y_eye.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Animation/AN_Block_MoveVirus.controller
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Animation/AN_Block_MoveVirus_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Materials/MA_Water_SP_00.mat
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/MA_Water_SP_00.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_y_tube.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Animation/AN_Block_MoveVirus_Appear.anim
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_y_smile_1.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Animation/AN_Block_MoveVirus_Destroy.anim
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_gage.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/MA_Circle_06.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Animation/AN_Block_MoveVirus_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_y_virus.png
+- Assets/8.AssetBundle/Blocks/block.movevirusyellow/Assets/Textures/tube_y_smile_2.png
+Dependencies: []

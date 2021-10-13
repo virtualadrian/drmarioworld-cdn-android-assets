@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 588
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: 3SHjk1pyWjk0nQNOHH8clq0N.pW-8Tr
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:24 GMT
+Cache-Control: public,max-age=300
+ETag: "4b447e44b10a91f114ea25b782486bf7"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: Q3UWUI63VULtUyHaQnShHtnw_74hTwEXt5yRkMPvOvRno5_OQgO8Gg==
+
+ManifestFileVersion: 0
+CRC: 315837936
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3659ecd4dca7bbec155201d3177ef445
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrKoopaTroopa/DrKoopatroopa_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrKoopaTroopa/DrKoopaTroopa.png
+Dependencies: []

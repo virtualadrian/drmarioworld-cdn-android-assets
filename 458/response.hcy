@@ -1,0 +1,83 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2483
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: A97QGy2dwtEjU8wloNGjZ.13NkyrnmP
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:43 GMT
+Cache-Control: public,max-age=300
+ETag: "48cf784f9ce9490cce8e55139b74a2df"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: Bjp16ZFT0V76Gy28aB-hWWGA-HCYPtRYKDkUKsh9ermRlpHtXMYcIw==
+
+ManifestFileVersion: 0
+CRC: 4202333382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 004ce49aaef463063ffefd3b0e6192cb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b8fb6f98300038df973657951763c289
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab9bbcfdada0134eb81e7e41263f3b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Textures/MA_Ring_00.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_red.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Animation/AN_Block_Lock_01.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_blue.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Materials/MA_Ring_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Materials/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_pink.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Guide_Block_Lock_01.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_yellow.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Textures/MA_Glow_SP_00.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Materials/MA_Glow_SP_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/BlockGimmickLock.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_sky.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_green.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Textures/lock_key_block_r.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/icon_purple.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmicklock/Assets/Textures/MA_Particle_Star_02.png
+Dependencies: []

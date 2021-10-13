@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2767413964
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 548f3bdded5ab4192e203c654d9fc3e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_kingboo_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_Sub_bombboo.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_octoomba_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_kingboo.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_octoomba_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_StarBunny.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_kingboo_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_bombboo_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_honeyqueen_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_starbunny_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_bombboo_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_honeyqueen.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_starbunny_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_honeyqueen_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_octoomba.png
+Dependencies: []

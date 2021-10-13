@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1602159809
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b92a6a399debfad0486d7c8b2c98415
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7d60d1eb4c7e99bf6d119c16dc6d5ab4
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Fonts/Nintendo/MARIO Font v3_2 Solid.otf
+- Assets/Resources/Fonts/Nintendo/nintendoP_Seurat-B_003.otf
+Dependencies: []

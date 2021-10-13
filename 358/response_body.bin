@@ -1,0 +1,109 @@
+ManifestFileVersion: 0
+CRC: 3360065253
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d77d0bf7b8fc4a434d3551a31ffc44c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 55552f145d315222a0a7cc485af49108
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Dolphin_WhiteMask.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Dolphin.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/BG_Skill_Wave_Front.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/characterskillinfo_drdolphin.json
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Ring_SP_00.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Wave_01.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/Materials/DrDolphin_dif.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Dolphin_Trail.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_A_Dr.Dolphin.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/EF_Skill_A_BG_DrDolphin.prefab
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/DrDolphin.controller
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/AN_Skill_A_BG_DrDolphin.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphinModel.FBX
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Bubble_02.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Ring_01.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Ring_SP_00.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Glow_15.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/BG_Skill_Wave_Front.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Wave_03.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Bubble_02.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Particle_Bubble_01.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Wave_Back.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Destroy_Pang.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Wave_04.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Wave_02.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Card.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/Materials/DrDolphin_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Wave_02.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/MA_Glow_15.mat
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin.prefab
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Destroy_Pang.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/Anim/skill_multi.anim
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_SmallDolphin.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Ring_01.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin_BG/BG_Skill_Wave_01.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/DrDolphin_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drdolphin/FX/Skill_A_DrDolphin/MA_Particle_Bubble_01.mat
+Dependencies: []

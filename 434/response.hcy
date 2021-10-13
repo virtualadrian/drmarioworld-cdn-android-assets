@@ -1,0 +1,155 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 9399
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: GX6z0LNlNu46Yynu8y-yimutug42WLQ
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:47 GMT
+Cache-Control: public,max-age=300
+ETag: "bba430f9805c7d1e3a2ecee1a3f7a6b3"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: nvLCVspj0Yi7GiA2NiZ0JH5i7dHaLtTKaKao_kkol5sVXNLA5nnPiQ==
+
+ManifestFileVersion: 0
+CRC: 1528713056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 245ca5d87a2633e3b00e075022ebbad5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e81f6873a3e184defd1377b8a93ec2ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e8bda17cf20ebf41a98f2a13f8543bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef41bc09b26a74847bead51c019f4db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BodyPiece_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Trail.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_blue_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BodyPiece_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Particle_07.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_bullet.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_pink_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_purple_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Ring_SP_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Trail.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Green_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Particle_07.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_yellow_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BodyPiece_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/BlockHelpRotaryCannon.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_purple_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_SmallPiece_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Animation/AN_Block_RotaryCannon_Shoot.controller
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_Spark01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BigPiece_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_Spark01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BigPiece_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Animation/AN_Block_RotaryCannon_Shoot.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_SmallPiece.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Yellow_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Purple_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_SmallPiece.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Bullet_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_red_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_SkyBlue_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_skyblue_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_Flash01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Smoke_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_yellow_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Smoke_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_bullet_blur.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_pink_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BigPiece_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_Particle01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_green_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_pink_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_skyblue_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Blue_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BigPiece_04.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Animation/AN_Block_RotaryCannon_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_blue_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_blue_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Smoke_03.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BigPiece_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_skyblue_back.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_Particle01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_green_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_Muzzle.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Ring_SP_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BigPiece_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BigPiece_04.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Red_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_red_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Glow_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Creation.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_purple_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_green_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_Ring_03.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_Muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_red_muzzle.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_RotaryCannon_BodyPiece_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_Flash01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/rotarycannon_yellow_boby.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Pink_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_BigPiece_03.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Animation/AN_Block_RotaryCannon_Destroy.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Textures/MA_RotaryCannon_SmallPiece_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/EF_Block_RotaryCannon_Rotation.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Ring_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelprotarycannon/Assets/Materials/MA_Smoke_01.mat
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/block.blockhelprocket

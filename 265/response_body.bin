@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4076083670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b85753dcb9a10a652c78086bc64843c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrFirePeach/DrFirePeach.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrFirePeach/DrFirePeach_half.png
+Dependencies: []

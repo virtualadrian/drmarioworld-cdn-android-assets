@@ -1,0 +1,61 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1773
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: PP6m25-2OmD7SZWc8mGv.m7Qp7UJZcD
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:43 GMT
+Cache-Control: public,max-age=300
+ETag: "73ed2457b56f37b814a89127eeefe7fc"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 03UeQakR-2vFig8DzIKv1rBhQnCW3T18gVxbcOJZ6sAnCIT7feIXOQ==
+
+ManifestFileVersion: 0
+CRC: 2906963605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d2078223619512e92254634861cc870
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 213c5d2f8ff460d79fe739c83290a298
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L11_3.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L11_2.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L4.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L7.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L2.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L11_1.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L6.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L10.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L3.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L9.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L1.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L5.prefab
+- Assets/8.AssetBundle/Multi/Multi_Prefab/multi.bg.ingame/BG_MultiIngame_L8.prefab
+Dependencies: []

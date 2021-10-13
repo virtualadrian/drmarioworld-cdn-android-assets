@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 305786930
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b62571ef09f646960424c0a249f72a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26120f54047df08508fffc66343f3de3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e100784cd48a8664894de209d6f7685b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.block/Block.prefab
+Dependencies: []

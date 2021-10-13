@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4158773283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 05edb531521c0c843d78a86fe30e2380
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrBlooper/DrBlooper_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrBlooper/DrBlooper.png
+Dependencies: []

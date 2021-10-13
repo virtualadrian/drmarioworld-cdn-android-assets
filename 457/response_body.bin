@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 87780071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf81f8718b467134b51bfeaf5fd97268
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3ac42d384a3bd89f8d808aa527a7eb46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebb7d7d02ff83ee4880c7d2f936f9fc0, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Ring_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/EF_Block_IceFan_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/IceFan_Bottom.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/BlockGimmickIceCube.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Animation/AN_Block_IceFan.controller
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Particle_IceCrystal_00.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Particle_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Twirl_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Smoke_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Animation/AN_Block_IceFan_Turn.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Animation/AN_Block_IceFan_Active.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Guide_Block_IceFan.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Animation/AN_Block_IceFan_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Ring_03.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/IceFan_Fan.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Twirl_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/IceFan_Center.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Textures/MA_Particle_Star_04.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Particle_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/EF_Block_IceFan_Active.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Particle_IceCrystal_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickicecube/Assets/Materials/MA_Particle_Star_04.mat
+Dependencies: []

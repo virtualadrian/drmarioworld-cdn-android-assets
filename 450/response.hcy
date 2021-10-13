@@ -1,0 +1,116 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 5854
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: B5kZrno..99nu.aixnLmcUd4oG8HXPt
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:45 GMT
+Cache-Control: public,max-age=300
+ETag: "233004043ed89bc428800daaa1c3b96b"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 1EnN6gfoIsiCLLL1oIt-TNqwRANbBDQv6BpT_uE_LNDZyn1JKrGFcw==
+
+ManifestFileVersion: 0
+CRC: 1630238715
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f93a488a01ad9dbc69bebfd48c6022c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 891dcdf348483bb3b2a78f00ea3c925f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef41bc09b26a74847bead51c019f4db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f808c8d4cfb4394bb13287d6f1cd894, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level4.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level4_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Pollution_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/gimmick_cleancoin_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/gimmick_pollutioncoin.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level3.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level1.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Pollution_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Pollution_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level4.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_CleanCoin.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Pollution_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level3_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level5_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level2_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level6.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level3_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level4_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/gimmick_pollutioncoin_mission.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Glow_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_Ring_03.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Ring_03.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level2_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level1.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level1_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level5.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level1_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Animator.controller
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Pollution_03.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/MA_Pollution_01.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/BlockGimmickPollutionCoin.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Coin_Change.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level3.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Textures/Pollution_Level2.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level2.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/EF_Pollution_Level6_Disappear.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level5_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level5.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/MA_CleanCoin.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Animation/Pollution_Level6_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickpollutioncoin/Assets/Materials/Pollution_Level6.mat
+Dependencies: []

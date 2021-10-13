@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 1534145561
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4db7bfa910b59115e3503c40dea5eb0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_QuestionMark_03.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_QuestionMark_05.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_03.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_Star_01_Add.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Glow_06_Add.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_QuestionMark_06.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Materials/DrToadette_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_01.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Block_QuestionBox_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_01.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_QuestionMark_04.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Materials/Dr.kinopico_dif_rare.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/skill_a_1.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Smoke_04.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Smoke_04.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_Question_00.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Circle_02.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Emblem_Toadette.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Thumbnail_sad.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrKinopico.controller
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrKinopico.FBX
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_QuestionMark_07.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_QuestionMark_01.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Ribbon_00.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Block_QuestionBox_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/AN_Skill_A_Dr.Toadette_BG.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ring_03.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Add.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_07_Add.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_Question_00.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette.prefab
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Glow_02.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/BG_Skill_A_Dr.Toadette.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Circle_02.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Glow_06.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Particle_07.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Materials/DrToadette_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_QuestionMark_00.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/characterskillinfo_drtoadette.json
+- Assets/8.AssetBundle/Characters/character.drtoadette/Materials/Dr.kinopico_dif.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_02.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/EF_Skill_A_BG_DrToadette.prefab
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/AN_Skill_A_Dr.Toadette.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Particle_08.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_Particle_08.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_02.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Glow_02.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ribbon_03.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette_BG/MA_QuestionMark_02.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/DrToadette_Card.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drtoadette/FX/Skill_A_DrToadette/MA_Ring_03.png
+- Assets/8.AssetBundle/Characters/character.drtoadette/Anim/attack.anim
+Dependencies: []

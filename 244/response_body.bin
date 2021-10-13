@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2600376161
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 798f62020a7d2554997056f02263f25f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrLudwig/DrLudwig.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrLudwig/DrLudwig_half.png
+Dependencies: []

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4255581945
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ecd8a7f76e530867188a0b1613895de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_galoomba_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_galoomba_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_galoomba.png
+Dependencies: []

@@ -1,0 +1,137 @@
+ManifestFileVersion: 0
+CRC: 3774121573
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30ceb572ed337b2ae6f6c28f9cb81e3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Glow_06_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Bubble_08.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Ring_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Line_01.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Ring_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_03.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_01.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_03.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_SpeedLine_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Dr.Bowser
+  Jr_02.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr.prefab
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Card.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/AN_Skill_A_Dr.BowserJr_BG.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Circle_01.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Glow_06.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Line_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Bubble_08.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Star_02_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Particle_Bubble_01.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Punch_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Glow_SP_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Smoke_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Line_04.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Particle_Star_01_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_02.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Glow_SP_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/BG_Skill_A_Dr.BowserJr.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/EF_Skill_A_BG_DrBowserJr.prefab
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Materials/Dr.Bowser_Jr_dif_rare.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Particle_Bubble_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/characterskillinfo_drbowserjr.json
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/skill_a_1.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Ring_SP_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Star_02_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Particle_Line_04.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Eye_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Materials/DrBowserJr_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Ring_SP_00.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Dr_Bowser_Jr_001.FBX
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Materials/DrBowserJr_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Star_07.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Punch_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Materials/Dr.Bowser_Jr_dif.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Ring_04.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/DrBowserJr.controller
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Stethoscope.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Dr.Bowser
+  Jr_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Circle_01.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Dr.Bowser
+  Jr_00.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Ring_04.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Star_07.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_M_DrBowserJr/MA_Ring_04.mat
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Glow_06.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Ring_04.png
+- Assets/8.AssetBundle/Characters/character.drbowserjr/FX/Skill_A_DrBowserJr/MA_Spark_02.png
+Dependencies: []

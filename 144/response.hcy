@@ -1,0 +1,117 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 4888
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: t9hKS3XgdGse1LjUxnRADGA81xE8L2O
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876274
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:46 GMT
+Cache-Control: public,max-age=300
+ETag: "2c9623c473f01bec1c7b601a324cf732"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: ovc0WwMLmwQtF4Y-fLjYHXfWPCtfJFyMTiszj0Czew93NcFMYnT4vg==
+
+ManifestFileVersion: 0
+CRC: 1839914603
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eee3a6c90a88a36fdcddc0397e17474
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ec3b1022dddbd918936195279d0a784c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb219b23cdf4b314f94a27bca3cc8012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc651e4649f41034690aa2b6a63c2368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fd0305abbf353d4aa8be133641a5099, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Dr.Luigi.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrBlooper.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Resen_M_Line_01.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Dr.Wendy.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Baby_Dr.Luigi.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrLuma.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrBabyWario_Magnet.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_Sub_LineDestroy_C.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_Sub_LineDestroy_W.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrFireLuigi_Fire01.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrDonkeyKong_Barrel.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrFireLuigi_Fire02.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/AN_SubSkill_Blooper.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_Sub_LineChange.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Resen_M_Line_02.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_M_Dr.Toadette.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Dr.Toadette.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Dr.Daisy.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Baby_Dr.Mario.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrDiddykong.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/AN_SubSkill_Teresa.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Dr.Wendy_Destroy.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_Baby_Dr.Daisy.prefab
+- Assets/8.AssetBundle/PoolalbeEffect/PoolableAnimation/EF_Skill_A_DrFireLuigi.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drbabymario
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drtoadette
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drbabywario
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drdiddykong
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drbabyluigi
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drdaisy
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drfireluigi
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drluma
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drwendy
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drdonkeykong
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drblooper
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drfirepeach
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drbabydaisy
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drluigi
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

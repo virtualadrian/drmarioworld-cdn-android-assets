@@ -1,0 +1,68 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1321
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: NZNhrtjXzbR7oQb9iY.dq0G9SSpp5ET
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:18 GMT
+Cache-Control: public,max-age=300
+ETag: "d1b0375bbe69d803954b67823b5881f1"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 8dodofiz_qcFJV9i92IX5rSWsMkk-SeW7MaKUMRme_uFW89HxSVnww==
+
+ManifestFileVersion: 0
+CRC: 2234439191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe19108d13cc6c182aacecd9748f036f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b05274ab89cbaa453ced02007c92c96
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f92018a11ce1c244985f5ad5197183cc, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344c731232c7f8c4aa2c672134d3c43a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Lobby/World23/chapter46.prefab
+- Assets/8.AssetBundle/Lobby/World23/BG_stage_w23.prefab
+- Assets/8.AssetBundle/Lobby/World23/chapter45.prefab
+- Assets/8.AssetBundle/Lobby/World23/Background_w23.png
+Dependencies: []

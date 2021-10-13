@@ -1,0 +1,85 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2499
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: 0SKpxiSKKTgsWU05qQalncD4iXfNq5B
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:34 GMT
+Cache-Control: public,max-age=300
+ETag: "f03ff566086294b6e9c16956329074df"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: DuUMnQd3YHS2s9xVmQ5GjR7geCARjtQYaxqHdvK3OgCSdFBYHV3MzQ==
+
+ManifestFileVersion: 0
+CRC: 3430920908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb4a6d20391fdb37818bcb98c68c397f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f522f6dcdea433164ec4f5d2b7e84417
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a72dbf53cd335d64cb4a54fdc423e211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15cc95c755bc9524d9b078b7e0bf7067, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/MenuIcon_EventStage_Set_7_ParaGoomba.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba_Result_3.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba_Lobby_1.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba_Lobby_2.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba_Lobby_0.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba_Result_2.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/ParaGoomba/EventStage_Set_7_ParaGoomba.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

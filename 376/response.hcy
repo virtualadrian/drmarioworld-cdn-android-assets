@@ -1,0 +1,133 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 6509
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: V.1W2EPMKE7r9x5Dt6PLzJe5H2TAJfu
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:58 GMT
+Cache-Control: public,max-age=300
+ETag: "b43279477519ff5d1ba403dfa45a22be"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: -FfXXZHGa8MvvV8sCZxgIbmMYbe4t_2nbeOuZehBY1KoxNDZCYn5oA==
+
+ManifestFileVersion: 0
+CRC: 2688958246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3845f284ced93ba19947db4bb560f511
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Heart_08.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_04.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_01.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/EF_Skill_A_BG_DrBabyPeach.prefab
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/DrBabyPeach_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/DrBabyPeach.controller
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Pill_Glow_04.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_07.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_02.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_03.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/DrBabyPeach_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/characterskillinfo_drbabypeach.json
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_06.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_02.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_03.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_01.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeachModel.FBX
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Pill_Glow_04.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_03.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Heart_03.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Particle_Star_04.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/AN_Skill_A_Baby_Dr.Peach_BG.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_03.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Card.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_02.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach.prefab
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Star_02_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_05.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_dif.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Heart_01_AB.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Heart_06.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_04.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Heart_08.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Add.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Heart_01.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_dif
+  1.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/DrBabyPeach_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach/MA_Particle_Heart_03.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/MA_Particle_Star_04.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/Materials/Dr.baby_peach_eye_04.mat
+- Assets/8.AssetBundle/Characters/character.drbabypeach/FX/Skill_A_DrBabyPeach_BG/BG_Skill_A_Baby_Dr.Peach.png
+Dependencies: []

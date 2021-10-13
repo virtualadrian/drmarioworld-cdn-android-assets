@@ -1,0 +1,129 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 5962
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: sNTDdq1ah8l4M3fz8gDwt2dTLZiTXf4
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:14 GMT
+Cache-Control: public,max-age=300
+ETag: "5c1dc0bf1033d9b6b62885a66a1c1b25"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: iFPTvKwOyfAnXFIfW0ArHOzP_-NtLYlGRzjKIiw-xn7K71ILbwoJ5A==
+
+ManifestFileVersion: 0
+CRC: 3784726550
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8519b5a2f84d70eefe795fbfcf9b2094
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drrosalina/characterskillinfo_drrosalina.json
+- Assets/8.AssetBundle/Characters/character.drrosalina/Materials/DrRosalina_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Light_02.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Circle_01.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Stick.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosetta.FBX
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Particle_Star_03.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina.prefab
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Particle_Star_03.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_01.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_02.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Light_02.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_Star_02.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Circle_01.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Light_01.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Circle_02.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Ring.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/AN_Skill_A_DrRosalina_BG.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Emblem_01.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_02.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Emblem_02.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/EF_Skill_A_BG_DrRosalina.prefab
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Ring.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Thumbnail_sad.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Materials/Dr.rosalina_dif_rare.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/Materials/DrRosalina_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Emblem_02.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Particle_03.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Circle_02.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Materials/Dr.rosalina_dif.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/DrRosalina.controller
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina/MA_Particle_03.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Light_01.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/BG_Skill_A_Baby_Dr.Rosalina.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Materials/Dr.rosalina_spec.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_Star_01.mat
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Card.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/FX/Skill_A_DrRosalina_BG/MA_Particle_01.png
+- Assets/8.AssetBundle/Characters/character.drrosalina/DrRosalina_Skill_Gauge.png
+Dependencies: []

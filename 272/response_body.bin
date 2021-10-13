@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 993148791
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b7a6ad413e6dac259b91dd17d26fa62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDotMario/DrDotMario_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDotMario/DrDotMario.png
+Dependencies: []

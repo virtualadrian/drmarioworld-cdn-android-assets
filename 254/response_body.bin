@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2304319729
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 822647686134d85d9f4563b86bfe59a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrKingBoo/DrKingBoo.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrKingBoo/DrKingBoo_half.png
+Dependencies: []

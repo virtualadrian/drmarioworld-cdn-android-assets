@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 4007875381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 75768a6ee3682aa402e3a963b7da6f88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Trail.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/characterskillinfo_drpiranhaplant.json
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Arm_L.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Pipe_R_01.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Pipe_G_02.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Emblem_PiranhaPlant.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/skill_multi.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Band_Front.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Arm_R.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/head_01.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Pipe_G_03.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Star.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrpiranhaplantModel.FBX
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Emblem_PiranhaPlant.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Pipe_G_01.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant.prefab
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Trail.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/MA_Glow_08.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/AN_Skill_A_BG_DrPiranhaPlant.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/MA_Glow_08.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Body.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/BG_Skill_A_Dr.PiranhaPlant.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/materials/Drpiranhaplant_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Gradation.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/DrPiranhaplant.controller
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Card.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant/MA_Star.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/DrPiranhaplant_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Band_Back.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/EF_Skill_A_BG_DrPiranhaPlant.prefab
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/materials/DrPiranhaplant_dif.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/Pipe_Y_01.png
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drpiranhaplant/FX/Skill_A_DrPiranhaPlant_BG/head_02.png
+Dependencies: []

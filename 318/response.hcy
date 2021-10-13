@@ -1,0 +1,119 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 5468
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: ivRXHHU1SlXjoGnA5kKYz6-JRvi7Y4h
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:13 GMT
+Cache-Control: public,max-age=300
+ETag: "c27a1c2bc42bc3a9cf0226ae65918f7e"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: XeHMqZnjUV2on0uKl6vxkIHLIM0d5kE3vAxNq-zYQAzmz4oUqdE-NQ==
+
+ManifestFileVersion: 0
+CRC: 4175718066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8f456912808591d2e24e3e441f98370
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/EF_Skill_A_BG_DrPeteyPiranha.prefab
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Trail.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrpeteypiranhaModel.FBX
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_01.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Particle_Sticky.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Ball.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Particle_Sticky.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/BG_Skill_A_PeteyPiranha_Dimd.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Thumbnail_sad.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Dust.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_02.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/characterskillinfo_drpeteypiranha.json
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Drpeteypiranha.prefab
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Dust.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/AN_Skill_A_BG_DrPeteyPiranha.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Ring_01.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Ring_01.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_02.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Particle_Star.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Ball.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Particle_Star.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_03.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/DrPeteypiranha_Card.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_01.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/MA_Trail.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/materials/DrPeteyPiranha_dif.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha_BG/BG_Skill_A_PeteyPiranha.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/Anim/DrPeteypiranha.controller
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Sticky_03.png
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/materials/DrpeteyPiranha_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drpeteypiranha/FX/Skill_A_DrPeteyPiranha/MA_Particle.mat
+Dependencies: []

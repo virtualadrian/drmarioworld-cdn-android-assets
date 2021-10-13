@@ -1,0 +1,138 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 8259
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:31 GMT
+x-amz-version-id: 9xw0O9rB74Rke2B.Tk07c6q4g0UnGlt
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:39 GMT
+Cache-Control: public,max-age=300
+ETag: "c4fb46a23e4d88b5ac2c6c464dfa098f"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: 3NDy1iINQb6vUcMV_jNuLmOvFHr9aNztE2E5Wyh1OoDqUZl5bd0YUw==
+
+ManifestFileVersion: 0
+CRC: 2365471383
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c12ced97a6df96844c9095b64da3e543
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_PixelDrMario01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Luma01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Rosalina01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrRoy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyPeach01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Donkey01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drJunior_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFirePeach02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrLarry01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireMario02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireRosalina01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrKamek_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Rosalina02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBoo01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBabyWario01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrPiranhaPlant.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drLudwig.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyLuigi02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drLuigi_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireLuigi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drLuigi_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBlooper.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drYoshi_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireNabbit_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Daisy02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drYoshi_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drWendy_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Lakitu.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Ink_Create.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyDaisy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyMario01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Block_Break_DrPiranhaPlant.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drYoshi_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrDryBowser01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrRoy_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Dolphin.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrLemmy_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrRoy02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drToadette_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drLuigi_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Cloud_Create.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drWendy_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyPeach_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Luma02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Waluigi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Donkey02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drWendy_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyMario_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drLuigi_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireRosalina_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drJunior_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Donkey03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrKamek02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Wario_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_GoombaTower.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drJunior_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drWendy.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrNabbit01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Block_Create_Ice.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drLudwig_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrKamek01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrIggy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_yoshi.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrLarry02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_PixelDrMario_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFirePeach_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrIggy02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Block_Break_DrPeteyPiranha.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyDaisy_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireMario_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyLuigi_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBabyRosalina01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drLudwig_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrMorton01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drToadette_3.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_BlockBrick_Create.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Waluigi_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drLuigi_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Daisy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireLuigi_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Wario_Multi02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Daisy_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrPeteyPiranha.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Diddy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrLemmy01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_drToadette_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFireMario01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_blooper.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBabyWario_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Goomba_Break.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyDaisy02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_BabyLuigi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Diddy02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_KoopaTroopa.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrBabyRosalina_Muilti01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrNabbit_Muilti01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrFirePeach01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrLarry_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Block_Break_Boo.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrDryBowser_Multi01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_DrKingBoo01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_Skill_Wario01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drLuigi_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.skill/SFX_skill_m_drJunior.wav
+Dependencies: []

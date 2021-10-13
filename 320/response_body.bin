@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 2844413102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 041f621be69a867fdf7da2b3480418ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/BG_Skill_A_Dr.Morton.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Spark_01.png
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drmorton/characterskillinfo_drmorton.json
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Spark_02.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Hammer_01.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_dif.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Hammer_02.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle_Line.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_01_dif.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Particle_Star.png
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/AN_Skill_A_BG_DrMorton.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton.prefab
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Spark_01.png
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Card.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Spark_01.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Spark_02.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle_Figure.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Spark_02.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Particle_Star.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/DMortonModel.FBX
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_01.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle_Figure.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Ring_SP.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_02_dif.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Trail.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_03_dif.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Spark_02.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Ring.png
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/EF_Skill_A_BG_DrMorton.prefab
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Ring.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Particle_Line.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/Anim/DrMorton.controller
+- Assets/8.AssetBundle/Characters/character.drmorton/DrMorton_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton_BG/MA_Spark_01.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_02.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/Materials/DrMorton_eye_03.mat
+- Assets/8.AssetBundle/Characters/character.drmorton/FX/Skill_A_DrMorton/MA_Ring_SP.mat
+Dependencies: []

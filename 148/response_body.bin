@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 836766235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5ddc8d8102b498f15d0b83921606c99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe6182b004f9c993995b79cc9e49d23d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a929e8e3efde85a46bfb8af85c3392f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eec740569b32a044fa211aa5e20cdfad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7487b5958ecc814d97d06b08e93b033, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3f5e23d318398b40bed1e88b3e79812, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/panelscore.eventstage/panelscore.eventstage.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

@@ -1,0 +1,114 @@
+ManifestFileVersion: 0
+CRC: 204475438
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef1c1039250ab6a8bfc99bdc4639aaec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4cdf706a30f6af644ff4c2780465837
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd3c4577feb90284baf2b25551f1a91d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Lightning.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Line_Light.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_green.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Pink_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Blue_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_SkyBlue_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Pink_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Particle_Star.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Yellow_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_red.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Yellow_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Purple_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Particle_04.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Trail_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Trail_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Trail_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_ElectronicBomb_Light.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Blue_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_ElectronicBomb_Light.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_pink.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_ElectronicBomb_Glow.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_SkyBlue_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Red_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Glow_17.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Purple_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Yellow_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Pink_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Lightning.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Blue_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Glow_17.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Green_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Blue_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Line_Light.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Particle_04.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Red_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Green_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Red_Trail.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_yellow.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Twirl_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_purple.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Particle_Star.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/BlockHelpElectronicBall.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Glow_00_AB.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_SkyBlue_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_ElectronicBomb_Stroke.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Red_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Purple_Remove.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Yellow_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Green_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_ElectronicBomb_Stroke.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Trail_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_blue.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_ElectronicBomb_Lightning.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_ElectronicBomb_Lightning.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Purple_Destroy.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Ring_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/electronicbomb_skyblue.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_ElectronicBomb_Glow.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Materials/MA_Glow_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Pink_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_Green_Idle.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Twirl_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/Assets/Textures/MA_Ring_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpelectronicball/EF_Block_HelpElectronicBomb_SkyBlue_Idle.prefab
+Dependencies: []

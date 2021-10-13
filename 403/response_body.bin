@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3611588408
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0817751e0ff12dd4e9be1a566e8714c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30646e03b78b34deb5a1b9eec19baa67
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2935c29fe6fa9b74580a75c1c4d7d34a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_p2_smile_1_new.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Animation/AN_Block_MoveVirus_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/MA_Circle_06.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_p2_eye_new.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Animation/AN_Block_MoveVirus_Destroy.anim
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_p2_virus_new.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_p2_tube.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Animation/AN_Block_MoveVirus_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_p2_smile_2_new.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Animation/AN_Block_MoveVirus_Appear.anim
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/MoveVirusPink.prefab
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Animation/AN_Block_MoveVirus.controller
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/tube_gage.png
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Materials/MA_Water_SP_00.mat
+- Assets/8.AssetBundle/Blocks/block.moveviruspink/Assets/Textures/MA_Water_SP_00.png
+Dependencies: []

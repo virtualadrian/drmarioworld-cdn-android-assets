@@ -1,0 +1,66 @@
+ManifestFileVersion: 0
+CRC: 3619880476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b167a1cc6a9e7bf83bc55a541361024
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d56c7c93acdf15f286e7afe8cf108d6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd7245a75a6474b2c96857c1b44ae41a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f72d9c6a8f66a42eb998421a0f698b8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a9d81bb621c24f419329b235b5737b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae85a7cb54d424892b02f445f2694b4f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.buffinfo.dracademy/PopupBuffInfo.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.buffinfo.dracademy/MenuIcon_AcademyBuff.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

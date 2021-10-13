@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2447155234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 497fb0bb8a018fdb46e5a25aa88ed053
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d916a7e5fd3407b19727a2c31f14ee6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f92018a11ce1c244985f5ad5197183cc, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 344c731232c7f8c4aa2c672134d3c43a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Lobby/World13/BG_stage_w13.prefab
+- Assets/8.AssetBundle/Lobby/World13/chapter25.prefab
+- Assets/8.AssetBundle/Lobby/World13/chapter26.prefab
+- Assets/8.AssetBundle/Lobby/World13/Background_w13.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1066546963
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79a984a68f4e5384cef630a9cfca0e23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrRosalina/DrRosalina.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrRosalina/DrRosalina_half.png
+Dependencies: []

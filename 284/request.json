@@ -1,0 +1,18 @@
+{
+  "app": "com.nintendo.zama",
+  "duration": "336ms",
+  "headers": {
+    "X-Unity-Version": "2018.4.21f1",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)",
+    "Host": "game-lgmatcha.line-scdn.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "afe46189-4c1e-43ec-8a78-722ed38f12c4",
+  "time": "2021-10-13 21:19:20",
+  "url": "https://game-lgmatcha.line-scdn.net/r/real/AssetBundles/Android/829/character.sprite.wholebody.drbowser.manifest"
+}

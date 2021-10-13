@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 616
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:34 GMT
+x-amz-version-id: 0BtNU4iWSjCUF1CD74Nz77xf.X3dpLx
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876275
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:20:02 GMT
+Cache-Control: public,max-age=300
+ETag: "f0e8986a0b97410877c5ab7204e5dcf2"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: RSC3OJL8IMxKJgBwzM1aWb4-pL1kJx2GTyG76WNUKRyAeVi34IUCBw==
+
+ManifestFileVersion: 0
+CRC: 899952203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ddd750e0614a394585f56c03fe77e20
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_parabomb_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_Sub_parabomb.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_parabomb_normal.png
+Dependencies: []

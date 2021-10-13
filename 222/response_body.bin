@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1781836242
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9abbe0447acc8f08e7da9fe73553e4a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrToad/DrToad_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrToad/DrToad.png
+Dependencies: []

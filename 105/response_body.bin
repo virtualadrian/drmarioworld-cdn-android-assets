@@ -1,0 +1,392 @@
+ManifestFileVersion: 0
+CRC: 1412305919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 748e247cfeb266086b451d1814131bf4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82e0856e294f9940404a4815f5853e73
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60789c12c4caf44488a5062dc1785179, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3723723843dd414c8a2fe49c84c8b20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c1b4b54afdacc8419623fa3107a3f7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b2d9605506e9f342a8b1e3e7db5598e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3f6676d159e3f429d14ef9f5d05d7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0cde37917ef5194a83fda8ace1e6e4d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f21189b6d61de4c8f2ee49356271a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d97a1caa159fcde4d876b377a8258900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea6684ab4bf454d4088b35cf8cec3af5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7fa3f1ccba7e8a46a5e7b35410bf509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0356b26ca5271b846b7f08874c775f01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c442986c3dcbe4a4fbf5129cddf8fda2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 304ec8ac32f1ee34cbcfb26fbfa6e646, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2332e54e9fb5df34fb2738ae1baaa719, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56c4906fa15617d40ada911b6ed35484, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_2.0UpdateSpecial.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/32_circle_stroke_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrPeteyPiranha_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/btn_popup_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_fireseries.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconValuePackD.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BowserJr.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world22.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLudwig_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Mario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrKingBoo_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLuigi_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBowserJr_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world6.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/img_ic_shop_time.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_MoverCount.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Boo.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Morton.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Roy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconStageFailPack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_luigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/drmedal_updatespecial.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_ValuePackB.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world29.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_FireLuigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world11.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyLuigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world28.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Lemmy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Koopatroopa.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_FireMario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrRosalina_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League9.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Rosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/dia_diapack_beginner.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world24.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/img_pattern_virus_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_OneBlockDel.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world12.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_boomerang_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyWario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world26.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Blooper.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_KingBoo.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/scoutticket_updatespecial.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_larry.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Iggy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world8.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League6.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyDaisy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Bowser.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Rosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Lemmy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world25.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Luigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BowserJr.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_OneBlockDel.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_SkillFull.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyMario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_DryBowser.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/drmedal_beginnerpack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_bowser.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_PeteyPiranha.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconValuePackB.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_SkillFull.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Waluigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyWario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconValuePackA.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_DotMario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrFirePeach_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLuma_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferMainItemIconWorldReachPack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyLuigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world10.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyDaisy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world4.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world18.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Koopatroopa.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Iggy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrToadette_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Larry.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Luma.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_waluigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/Drbowser_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyRosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Goombatower.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBoo_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Luma.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/cha_eff_circle_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Nabbit.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/NewYearPack/drmedal_newyearpack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrGoombatower_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/back_shop_info.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Bowser.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_DryBowser.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_lemmy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Stage_Fail_Pack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_ValuePackA.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Donkeykong.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Scout_Character_Pack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Beginner.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrKoopatroopa_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/back_specialOffer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Wendy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_hammer_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firerosalina_mark.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Boo.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_peteypiranha.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Waluigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyDaisy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world21.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyRosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Lakitu.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_PiranhaPlant.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League2.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_MoveCount.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_pill_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrMorton_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Luigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BowserJr.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world13.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_babydaisy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Boomerang.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Toadette.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconLeaguePack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDiddyKong_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Wendy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Todette.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Ludwig.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_skillup_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Daisy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyRosalina_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDotMario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_FireLuigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrToad_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Yoshi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firerosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_KingBoo.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world7.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrFireLuigi_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_popup_rosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_DonkeyKong.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Larry.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_babypeach.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/NewYearPack/scoutticket_newyearpack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_scoutticket_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLakitu_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/ic_item_ingame_dia_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Waluigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BabyWario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_FireMario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconWorldReachPack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLemmy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrYoshi_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyPeach.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/img_capsule_common_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world17.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Rosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/specialoffer_circle.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDaisy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_ValuePackD.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_toad.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDonkeykong_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/back_shop_beginnerPack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firemario_mark.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League10.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_FireMario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world27.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world5.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_FireRosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Boo.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyMario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyWario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrFirerosalina_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrLarry_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BabyMario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrNabbit_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_PiranhaPlant.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyLuigi_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Bowser.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BabyDaisy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/NewYearPack/back_shop_newyearpack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world30.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconValuePackC.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Ludwig.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Larry.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrRoy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Yoshi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/back_itemBG_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League11.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_SkillMax.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Mario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Toad.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Kamek.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_BabyPeach.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_boo.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferItemIconExperiencePack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Kamek.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_popup_donkeykong.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferMainItemIconStageFailPack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League5.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrFireMario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BabyRosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Lemmy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Toad.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrMario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Peach.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_FirePeach.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Roy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_ValuePackC.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Wario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Morton.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Ludwig.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_fireluigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_FireRosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_BabyMario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_babymario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_morton.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Diddykong.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/specialoffer_shd.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world23.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firemario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Diddykong.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrIggy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Daisy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_FirePeach.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_World_Reach_Pack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_daisy2.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_ScoutTicket.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDrybowser_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_babywario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Daisy.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBlooper_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrWaluigi_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_babyrosalina.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Donkeykong.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_SkillMax.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/NewYearPack/dia_diapack_newyearpack.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_BabyPeach.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_KingBoo.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrPeach_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Peach.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/ic_item_skillmax_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world16.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League3.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Dolphin.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrWario_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_DotMario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world14.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firepeach.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_ScoutTicket.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrBabyPeach_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrWendy_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Luigi.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world20.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Kamek.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOfferBannerDecoration.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_fireluigi_mark.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_PeteyPiranha.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_NewYearPack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_PeteyPiranha.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Wendy.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Toad.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Nabbit.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/64_r20_box_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrDolphin_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Boomerang.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League7.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Dolphin.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_FireLuigi.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_DryBowser.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Wario.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/DiamondSpecialOffer/back_shop_Dia_Wario.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world9.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/CharacterSpecialOffer/back_shop_firepeach_mark.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world3.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_ExperiencePack.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Morton.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Goombatower.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League4.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Lakitu.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_FireRosalina.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_Diamond_Blooper.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_FirePeach.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world15.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/Special_Offer/dia_diapack_updatespecial.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrKamek_half_offer.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world19.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/world/offer_banner_world31.png
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/SpecialOffer_League8.prefab
+- Assets/8.AssetBundle/Downloadable/SpecialOffers/banners/Textures/WorldReachPack/character/DrPiranhaPlant_half_offer.png
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/character.drludwig
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/specialoffer.popup
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

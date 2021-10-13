@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4054637301
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2f0ed60d5cb9fc0ca290c92ab8f10f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDiddyKong/DrDiddyKong.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDiddyKong/DrDiddyKong_half.png
+Dependencies: []

@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2457529212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c1447729120e5bd814f7044997aa7df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0b14785e4dd406855c912b295d551ea4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dcc4afd06bf90fe4c9d9f9a4d6934fab, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Animation/AN_PlusMove_Drop.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/MA_Glow_SP_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_p.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_y.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_yg.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_b.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Materials/MA_Ring_05.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/BlockHelpBonusCntBox.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_sb.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Materials/MA_Glow_SP_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_r.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/MA_Ring_05.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpbonuscntbox/Assets/Textures/plusmove_pink.png
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

@@ -1,0 +1,126 @@
+ManifestFileVersion: 0
+CRC: 621173957
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab67f450f9bae178be1553a83ac8671a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Ring.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/EF_Skill_A_BG_DrBoo.prefab
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Particle_Line.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_02.mat
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Arm_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Card.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Circle.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Particle.mat
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_04.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Eye_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Glow_02.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Smoke_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_01.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Circle.png
+- Assets/8.AssetBundle/Characters/character.drboo/characterskillinfo_drboo.json
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Mouth.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/AN_Skill_A_BG_DrBoo.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Ring.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Smoke_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Glow_02.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_03.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Smoke_04.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_03.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_03.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_03.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Arm_R_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Arm_L_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Eye_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/BG_Skill_A_Dr.Boo_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo.prefab
+- Assets/8.AssetBundle/Characters/character.drboo/DrBoo_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Ring.mat
+- Assets/8.AssetBundle/Characters/character.drboo/DrBooModel.FBX
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/BG_Skill_A_Dr.Boo_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Glow_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_01.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Glow_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/DrBoo.controller
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Glow_01.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Tooth.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Acc_03.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Particle_Line.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Glow_01.mat
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_body_dif.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Ring.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Acc_01.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Glow_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Acc_02.png
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Smoke_03.png
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo/MA_Smoke_02.mat
+- Assets/8.AssetBundle/Characters/character.drboo/Materials/DrBoo_eye_04.mat
+- Assets/8.AssetBundle/Characters/character.drboo/FX/Skill_A_DrBoo_BG/MA_Boo_Body.png
+Dependencies: []

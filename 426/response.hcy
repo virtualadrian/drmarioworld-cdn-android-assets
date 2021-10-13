@@ -1,0 +1,76 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1888
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: 6phRKbHjJe4r9JWvwJN60a0goMv9fMf
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:48 GMT
+Cache-Control: public,max-age=300
+ETag: "57647e8fbdc7b13b80f4d7fe18125cd7"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: FqLc-K8eYxbSRzBCT9_N1H4vOgxDUFOoEFi9d2yJm-LSm6DVEPTzkg==
+
+ManifestFileVersion: 0
+CRC: 2281774862
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3507542ca66e97d569e3d22d55b150d4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 53b96a4b61bd53bd3625c0c6c61cbbe8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60dc879b58ffe2a4c9dfd61e8905f017, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2935c29fe6fa9b74580a75c1c4d7d34a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_purple.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_pink.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_yellow.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_red.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/Assets/Materials/UI_Grayscale.mat
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_sky.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_green.png
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/BlockMoveVirus.prefab
+- Assets/8.AssetBundle/Blocks/block.blockmovevirus/icon_blue.png
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/block.movevirusred

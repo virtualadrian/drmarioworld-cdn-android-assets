@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 44023281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4c3430fe0bb192192e0bd039fa53785
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_goombrat_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_wiggler_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_goombrat.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_scuttlebug_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_Sub_boo.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_scuttlebug.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_wiggler.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_wiggler_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_scuttlebug_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_Sub_boo_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_goombrat_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_boo_normal.png
+Dependencies: []

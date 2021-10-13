@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1138
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: lfoIAiOZSopPSWGF2tusLJQdDtZK8Ie
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:54 GMT
+Cache-Control: public,max-age=300
+ETag: "464cdced889f74969a28816b07177c35"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: XR-sNJ7RMbXqLggQpie-EqVtuFEL1VwvaWTmAZE_rqmRi4E5Rgf1Qw==
+
+ManifestFileVersion: 0
+CRC: 1642775418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f47f6b82b376cf8df9abb17f9519566e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e4c384320ebf89b3b734fb8edcd00e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f99599d2a30c34fa900eae0f54562c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.virussky/Assets/Textures/Cheek_New.png
+- Assets/8.AssetBundle/Blocks/block.virussky/VirusSky.prefab
+- Assets/8.AssetBundle/Blocks/block.virussky/Assets/Textures/Head_New.png
+- Assets/8.AssetBundle/Blocks/block.virussky/Assets/Animation/Virus_Original_SkyBlue_Ori.anim
+- Assets/8.AssetBundle/Blocks/block.virussky/Assets/Textures/Eye_New.png
+Dependencies: []

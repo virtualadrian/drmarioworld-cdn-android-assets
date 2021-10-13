@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 984075939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ffde3ea2b3e632e4a358cd77cff80a09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ccf2f406806e4927fd11c810134aeae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Glow_06_Add.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi.controller
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_08.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Circle_01.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drluigi/Materials/DrLuigi_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi.prefab
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_03.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drluigi/characterskillinfo_drluigi.json
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow_03.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Glow_06.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_02.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Card.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_08.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Line_Glow_01.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Add.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/Materials/luigi_di.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow_01.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi001.FBX
+- Assets/8.AssetBundle/Characters/character.drluigi/EF_Skill_A_BG_DrLuigi.prefab
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/AN_Skill_A_Dr.Luigi.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/skill_a_1.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/BG_Skill_A_Dr.Luigi.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/AN_Skill_A_Dr.Luigi_BG.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/Materials/DrLuigi_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_Star_01_Add.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Emblem_Luigi.png
+- Assets/8.AssetBundle/Characters/character.drluigi/DrLuigi_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_03.png
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Line_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drluigi/Materials/luigi_di_spec.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow_02.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Line_Glow_02.png
+- Assets/8.AssetBundle/Characters/character.drluigi/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Circle_01.mat
+- Assets/8.AssetBundle/Characters/character.drluigi/Materials/luigi_di_rage.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow.png
+- Assets/8.AssetBundle/Characters/character.drluigi/FX/Skill_A_DrLuigi/MA_Pill_Glow_00.png
+Dependencies: []

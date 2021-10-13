@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2230054919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 083c86ec55d4226b5589b550aadf50f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrWario/DrWario.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrWario/DrWario_half.png
+Dependencies: []

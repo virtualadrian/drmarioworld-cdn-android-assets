@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3288914980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be34b079261ad7224891ae0c93cf1ebd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDolphin/DrDolphin_half.png
+- Assets/8.AssetBundle/DrAcademy/character.sprite.wholebody/character.sprite.wholebody.DrDolphin/DrDolphin.png
+Dependencies: []

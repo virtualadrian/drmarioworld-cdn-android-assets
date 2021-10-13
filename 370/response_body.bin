@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 2245341435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5b0c5912e99536f63afff97922479dde
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a7116d6cc1bff45cbcc7e8bdbd1a2ed
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1a86ec76a7a4014a85faf236c3b267e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c1fde08d0b7c7f448d594e1aef91ce9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drbabywario/Materials/DrBabyWario_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Crosshair_Glow.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Crosshair_Circle.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_BG.controller
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Crosshair_Circle.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_Magnet.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Ring.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Coin_Creation_Flare.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Ring_SP.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_01.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Whirl.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/BG_Skill_A_Dr.BabyWario.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario.prefab
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/EF_Skill_A_DrBabyWario_CrossHair.prefab
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Coin_Creation_Flare.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_01.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Ring.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Lightning.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/characterskillinfo_drbabywario.json
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_03.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_BG_End.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWarioModel.FBX
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Particle.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/Materials/DrBabyWario_dif.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_BG_Idle.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_CrossHair.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Magnet_Glow.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Particle_Star.mat
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/DrBabyWario.controller
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Card.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Crosshair.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/DrBabyWario_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_CrossHair_Glow.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/AN_Skill_A_Dr.BabyWario_BG_Start.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Ring_SP.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_03.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Particle_Star.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/EF_Skill_A_BG_DrBabyWario.prefab
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_BabyWario_Magnet.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Lightning.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drbabywario/FX/Skill_A_DrBabyWario_BG/MA_Particle_Star_02.mat
+Dependencies: []

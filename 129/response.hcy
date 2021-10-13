@@ -1,0 +1,80 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1969
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: YmY9wETyW2AeFfk66TQlt0wZkN1ltyO
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876274
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:51 GMT
+Cache-Control: public,max-age=300
+ETag: "d26e79cfae23336cef1d545e9b289225"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: tmPL3uJBQeXly4Psq_Q_vTmhp1HVZ7P9ul8hOkoljEJZaLWTvUt1VA==
+
+ManifestFileVersion: 0
+CRC: 735278288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f4ebeb80a067378dd54a5f77ba05688
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf875aad81c2fa2a423c97d2b6e63c35
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90076c4dda59c29449d3ec774b50e63f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcf77c4e367e1ef4fbe26e393b82676c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 531b172f33f8a408abcc29e5a73f6e2a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db6a6a3f0046d5c41b1c1a6fadcbffd0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.charinfo.dracademy/PopupCharInfoAcademy.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

@@ -1,0 +1,120 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 4776
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: HGC97W4wt88LeOaLOwGcriwM57.XfsA
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:08 GMT
+Cache-Control: public,max-age=300
+ETag: "90ec0c872690f94722b6720d80956e25"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: JAlluwGs6iWRwtctby6FjRe8DWp1rMeJMl_j1wTfHGhHs-vDN3oI6Q==
+
+ManifestFileVersion: 0
+CRC: 1130321510
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba2e2f82cdf23cb79b4860d15aa573c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21ac63d14b178b656237210d00e201a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc651e4649f41034690aa2b6a63c2368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1a86ec76a7a4014a85faf236c3b267e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drkamek/characterskillinfo_drkamek.json
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Card.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Triangle.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/BG_Skill_White_InnerFrame_Highlight.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/BG_Skill_Frame_RainbowStroke.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Circle.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Materials/DrKamek_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek.prefab
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Squre.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/MA_Kamek_Silhouette.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Triangle.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/Materials/Dr.kamek_dif.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Squre.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/MA_Kamek_Aurora_00.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/DrKamek.controller
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/MA_Kamek_Stick_Circle.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamekModel.FBX
+- Assets/8.AssetBundle/Characters/character.drkamek/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/BG_Skill_A_DrKamek.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drkamek/DrKamek_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Circle.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/MA_Kamek_Aurora_01.png
+- Assets/8.AssetBundle/Characters/character.drkamek/Materials/DrKamek_Normal.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek/MA_Glow_14.mat
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/Skill_A_DrKamek_BG/BG_Skill_White_InnerFrame.png
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/EF_Skill_A_BG_DrKamek.prefab
+- Assets/8.AssetBundle/Characters/character.drkamek/FX/AN_Skill_A_DrKamek_BG.anim
+Dependencies: []

@@ -1,0 +1,119 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 4921
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: VqPxIOWkzB3wgQBZC59pxdNV8J9HNJo
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:09 GMT
+Cache-Control: public,max-age=300
+ETag: "18ac64bdf9c4063fe108923c237a21e3"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 fc6bcc0c05113295fc38d1c274344ae4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: mWiIYnh6H1jFIuFZnEmH9jXBSZYi5NpuW0g9hpZAjJOhmHpRSKV0BQ==
+
+ManifestFileVersion: 0
+CRC: 3562073671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba24ca15b20771b63f8156338bb1b791
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_SmallCloud_03.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/characterskillinfo_drlakitu.json
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/Materials/DrLakitu_goggle.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_02.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_SmallCloud_02.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/AN_Skill_A_BG_DrLakitu.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/MA_Skill_Cloud_Cration.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_SmallCloud_01.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/skill_multi.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_06.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakituModel.FBX
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_05.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_07.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_A_Dr.Lakitu.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_03.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu.prefab
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/DrLakitu.controller
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/UI_Additive.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Card.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Lakitu.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_01.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Cloud_04.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/MA_Glow_14.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/Materials/DrLakitu_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/MA_Skill_Cloud_Cration.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/MA_Glow_14.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu_BG/BG_Skill_Flare.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/BG_Skill_Lakitu_Cloud.mat
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/Skill_A_DrLakitu/BG_Skill_Lakitu_Cloud.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/FX/EF_Skill_A_BG_DrLakitu.prefab
+- Assets/8.AssetBundle/Characters/character.drlakitu/Materials/DrLakitu_dif.png
+- Assets/8.AssetBundle/Characters/character.drlakitu/DrLakitu_Skill_Gauge.png
+Dependencies: []

@@ -1,0 +1,61 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2313
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:31 GMT
+x-amz-version-id: DBgZrNP2D8MHhW3lANsD6UUKbJWOZQS
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876270
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:38 GMT
+Cache-Control: public,max-age=300
+ETag: "beebf03e180ea2d2215500d743d80dd0"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: pgv6J7rn3KzsFeZDP_MpAu0E2XOxxXOiIwV_1Q0iSUj1Zt0uErH4Hg==
+
+ManifestFileVersion: 0
+CRC: 4188509023
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e14189e9db515b13803dd489a19dc7cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice_2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Prison01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_MakeBubble01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_HelpFlask_Enter.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Move01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Bulb_Out01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_ColourBox01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_MakeBubble02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_WoodBox01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Prison02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_WoodBox02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_OX01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_BlockMask2.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice_1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_BlockMask1.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_ice.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Flask03.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel01.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_Bomb_Electric.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Move02.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_HelpFlask_Scatter.wav
+- Assets/8.AssetBundle/AudioClips/audioclip.gimmick/SFX_inGame_Barrel02.wav
+Dependencies: []

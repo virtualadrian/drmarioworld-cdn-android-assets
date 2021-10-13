@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 3899755509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4eb38e3374281528e022241e8871512c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1132f0ef3f41a973384e4edcc722ea65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5fd0305abbf353d4aa8be133641a5099, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke03.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/AN_Skill_A_BG_DrRoy.anim
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/EF_Skill_A_BG_DrRoy.prefab
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Bullet.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark04.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_02.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/BG_Skill_A_DrRoy_Dimd.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Block_WoodBox_03.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoyModel.FBX
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Fire.png
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Bullet_Blur.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Spark_02.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_03.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke01.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Fire.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Star_08.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Glow.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_03.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Smoke_03.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke01.png
+- Assets/8.AssetBundle/Characters/character.drroy/characterskillinfo_drroy.json
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Card.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Star_08.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Fire.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/AN_Skill_A_BG_DrRoy.controller
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_02.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/BG_Skill_A_DrRoy.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Circle_01.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle_Dust.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Fire.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Glow_Add.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle_Dust.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke02.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/EF_Skill_A_DrRoy_Cannon.prefab
+- Assets/8.AssetBundle/Characters/character.drroy/FX/AN_Skill_A_DrRoy_Cannon.anim
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Particle_Figure.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke02.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Smoke_03.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle_Wood_00.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy.prefab
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark05.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Smoke03.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Glow.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_04.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark05.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Circle_01.mat
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/DrRoy.controller
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_01.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Particle_Wood_00.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Smoke_03_Add.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Spark_02.png
+- Assets/8.AssetBundle/Characters/character.drroy/Materials/DrRoy_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/AN_Skill_Roy_WoodBoxDestroy.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark04.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_04.mat
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_05.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Roy_Cannon_Spark.png
+- Assets/8.AssetBundle/Characters/character.drroy/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_01.mat
+- Assets/8.AssetBundle/Characters/character.drroy/Materials/DrRoy_dif.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Wood_Piece_05.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_A_DrRoy/MA_Block_WoodBox_03.mat
+- Assets/8.AssetBundle/Characters/character.drroy/FX/Skill_M_DrRoy/MA_Particle_Figure.png
+- Assets/8.AssetBundle/Characters/character.drroy/DrRoy_Thumbnail_Sad.png
+Dependencies: []

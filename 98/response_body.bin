@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3580074865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 500700db7722304df9113603501ab65f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_montymole_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_mechakoopa_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_fuzzy.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_montymole.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_thwomp_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_fuzzy_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_thwomp_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_Mechakoopa.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_montymole_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/empty/cha_sub_Mechakoopa_empty.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/profile/cha_sub_fuzzy_normal.png
+- Assets/3.Graphics/UI/Character/Character_Card/thumbnail/normal/cha_sub_thwomp.png
+Dependencies: []

@@ -1,0 +1,134 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 6539
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: f4r704pAKzZsnLES.bGGKaVSbshGIV7
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:16 GMT
+Cache-Control: public,max-age=300
+ETag: "5094710ce075e113c2dd50f0d6554e37"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: JLvVsVJtlDiwbOsETZqQsqvAYbK0VT35xU3AamwHUVrc4sVS4ytFIg==
+
+ManifestFileVersion: 0
+CRC: 4203461203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebde7e3774021e73cf01d42220212f38
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0290869c17a0b502e40b25c4ebde798c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_03.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Leaf_01.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigiModel.FBX
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Ring_03.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/characterskillinfo_drwaluigi.json
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flare_01.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Add.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Leaf_03.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Leaf_00.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flare_01.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Particle_08.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/EF_Skill_A_BG_DrWaluigi.prefab
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Materials/Dr.waluigi_spec.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_06.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Thumbnail_sad.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Leaf_02.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/AN_Skill_A_Dr.Waluigi_BG.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Flower_02.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi.controller
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_05.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_12.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/BG_Skill_A_waluigi.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Star_16.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_11.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_09.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Star_16.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Ring_03.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_08.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Flower_02.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_02.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi.prefab
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Leaf_03.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_07.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Particle_08.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_01.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_10.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi_BG/MA_Flower_03_04.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Materials/Dr.waluigi_dif_Rare.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/DrWaluigi_Card.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Materials/Dr.waluigi_dif.png
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Materials/DrWaluigi_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/FX/Skill_A_DrWaluigi/MA_Particle_Leaf_03.mat
+- Assets/8.AssetBundle/Characters/character.drwaluigi/Materials/DrWaluigi_Normal_1.mat
+Dependencies: []

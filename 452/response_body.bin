@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3071892107
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca11f6d9acd4d42f86a0b91b802f4064
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86ffdf3c8425b0bd17c1aefa567e5cda
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 638038b21604aa041a4ac730c1b76b1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/BlockGimmickMask.prefab
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/OX_Lighting.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Textures/MA_Lightning_06.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/MA_Particle_04.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Animation/AN_Block_OX_Disappear.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Textures/OX_Lighting.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Animation/AN_Block_OX_Unactive.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Textures/OX_Frame.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Animation/AN_Block_OX_Creation.anim
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Textures/MA_Particle_04.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Animation/AN_Block_OX.controller
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Textures/gimmick_lockcoin.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/MA_Lightning_06.mat
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockgimmickmask/Assets/Animation/AN_Block_OX_Active.anim
+Dependencies: []

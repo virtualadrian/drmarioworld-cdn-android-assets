@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 3208132320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ddfc951e56e2ed9771c19978127bb5a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d3aecc4832a70b68c9f942be858ebf2a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ad856d45505b3e4ab7c04957630192c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/Assets/Textures/gimmick_dust_body.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/Assets/Materials/gimmick_dust_particle.mat
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/BlockStatusDust.prefab
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/Assets/Textures/gimmick_dust_particle.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/icon.png
+- Assets/8.AssetBundle/Blocks/block.blockstatusdust/Assets/Animation/AN_Block_Dust_Idle.anim
+Dependencies: []

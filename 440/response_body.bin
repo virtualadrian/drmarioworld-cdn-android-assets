@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1189961302
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e769dbe90d298926513302fd393b3297
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 69ecdf1bc8e028c001577000bf0fa434
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc504a6421cdffa4c90ab901aa4632d7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a501751840b3a6b4c87facc76ff791ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6a1f13a675d4a8428b5599d06aeda3b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_yellow.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Particle_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Animation/An_Block_HelpBomb_Active.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Particle_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Particle_Star_12.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_red.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_yg.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Ring_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Smoke_02.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Smoke_02.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Animation/An_Block_HelpBomb_Idle.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Glow_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Block_Bomb_Glow.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Animation/An_Block_HelpBomb_Creation.anim
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_pink.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Circle_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Circle_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Ring_00.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Animation/An_Block_HelpBomb.controller
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Spark_01.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Block_Bomb_Glow.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Glow_00.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/BlockHelpFlower.prefab
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/MA_Particle_Star_12.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Materials/MA_Spark_01.mat
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_Skyblue.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_purple.png
+- Assets/8.AssetBundle/Blocks/block.blockhelpflower/Assets/Textures/bomb_blue.png
+Dependencies: []

@@ -1,0 +1,166 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 8275
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: qJN.DNgx4TZxXUDFtKlz-CY06QBhtfJ
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:01 GMT
+Cache-Control: public,max-age=300
+ETag: "73fbd2e95dd8ab820afb4eb90aed268c"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: k6ANag5lJWzL3CCAWkWpHMhAESrxg59bRdc839BRrT10jhMejLEhUw==
+
+ManifestFileVersion: 0
+CRC: 1182906347
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a61f4ba3c1f88f74b76020adc86e3041
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6ba0e94bbfec08eb2e035c3b0c30b387
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Ring_00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_L_close.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_L.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Flower_04.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_R_sad.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_L_sad.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_dif.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Skill_A_Dr.Daisy_BG_Start.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyel_003.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/eff_itemuse.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Star_02_Add.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Tutorial_Hand_Tap01.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/BG_Skill_A_Dr.Daisy.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_R_close.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Star_07.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/img_tutorial_hand_normal.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Star_07_Add.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Card.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy.prefab
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Flower_02.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Skill_A_Dr.Daisy.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/back_itemuse.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Flower_04.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyer_004.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Stroke_00.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_crown_dif.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Skill_A_Dr.Daisy_BG_End.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyer_003.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyel_002.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Tutorial_Hand_Tap02.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Icon_Item.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_R_half.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Leaf_00.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyel_004.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Flower_00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/back_tutorial_speechbubble_popup.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyel_001.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/EF_Skill_A_BG_DrDaisy.prefab
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Skill_A_Dr.Daisy_BG.controller
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/DrDaisy_Crown.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy.controller
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/img_tutorial_hand_press0.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Flower_00.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Leaf_00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/img_tutorial_hand1_1.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/img_tutorial_hand_press2.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/DrDaisy_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Ring_00.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/DrDaisy_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Particle_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/img_tutorial_hand_press1.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_R.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Stroke_00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Drdaisy_eye_L_half.mat
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyer_002.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Materials/Dr.daisy_eyer_001.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/Mask_Circle00.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy_BG/MA_Flower_01.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/characterskillinfo_drdaisy.json
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/Skill_A_DrDaisy/MA_Emblem_Daisy.png
+- Assets/8.AssetBundle/Characters/character.drdaisy/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drdaisy/Dr_Daisy.FBX
+- Assets/8.AssetBundle/Characters/character.drdaisy/FX/AN_Skill_A_Dr.Daisy_BG_Idle.anim
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

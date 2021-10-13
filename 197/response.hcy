@@ -1,0 +1,85 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 2569
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:33 GMT
+x-amz-version-id: U7m0qtb6FoZ8M4R1mqHk0Bzr4jxVy.U
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876273
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:33 GMT
+Cache-Control: public,max-age=300
+ETag: "6e630f0c6b332e97d62fe08448f384af"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: UMJmMlcGtXwLkcILTj6PAYGjkqA-RDf6VFuUU9DGSLyV19IiVmW1KA==
+
+ManifestFileVersion: 0
+CRC: 3951177506
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c563b494fe4c5b4c85209a1f330cb926
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f522f6dcdea433164ec4f5d2b7e84417
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a72dbf53cd335d64cb4a54fdc423e211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15cc95c755bc9524d9b078b7e0bf7067, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa_Lobby_0.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa_Result_3.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa_Lobby_1.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa_Result_2.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/MenuIcon_EventStage_Set_8_KoopaParatroopa.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa.prefab
+- Assets/8.AssetBundle/Downloadable/Popup/Event/EventStage/KoopaParatroopa/EventStage_Set_8_KoopaParatroopa_Lobby_2.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/ui.game.adventure
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

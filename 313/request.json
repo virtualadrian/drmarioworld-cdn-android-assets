@@ -1,0 +1,18 @@
+{
+  "app": "com.nintendo.zama",
+  "duration": "332ms",
+  "headers": {
+    "X-Unity-Version": "2018.4.21f1",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)",
+    "Host": "game-lgmatcha.line-scdn.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "3610a594-f5ee-4441-ae44-b58aa1b48a7b",
+  "time": "2021-10-13 21:19:14",
+  "url": "https://game-lgmatcha.line-scdn.net/r/real/AssetBundles/Android/829/character.drroy.manifest"
+}

@@ -1,0 +1,199 @@
+ManifestFileVersion: 0
+CRC: 3718616363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 356cb31dc478816078890e3cbc1e6219
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6711f1e9b658c1930c12e93ef6cedd05
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdf293048cc1334eadf2a6c2c144ef9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcdd0331a936a1b45982dafaf0dd7045, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7708f31c34064319840ea94010e991f, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1184210157, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5fda572494464381b3222b8052a2541, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c62b56c22b5484838abdd3632e20a735, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cc9f71336ea64b4fb643a79af9cb798, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0c1b4b54afdacc8419623fa3107a3f7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a36b2184d208c07498fd025312f19d8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25f9a3d40c68a41cf90f9782df413d85, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cdd94751faa6514b83b311b9eaab6e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ef65d7558d310c47838171fa54e0bb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2c235d5d8e510241bc43d160f2b1cae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc651e4649f41034690aa2b6a63c2368, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb3f6676d159e3f429d14ef9f5d05d7b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f6ecf37717d53d4fa2d80bf32684a5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1a86ec76a7a4014a85faf236c3b267e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 846fe32803d85453792bc4ca0dbbdf69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 415e7009c5fe49341bf430acc8ba3df8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef41bc09b26a74847bead51c019f4db7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 381e1f59a5b781e4c8388988cc31bcdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f72d9c6a8f66a42eb998421a0f698b8b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 816f3dea094fe420e979b67d3d46ec2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0306e32edfb89456a88e51bb16cf19ef, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BabyRosalina.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyRosalina.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyPeach.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Luigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Toad.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_DonkeyKong.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_PeteyPiranha.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Lakitu.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_FireRosalina.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Boo.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Kamek.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Wario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Larry.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Waluigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Wendy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyDaisy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_DryBowser.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Morton.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Mario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_DotMario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Yoshi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_KingBoo.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_FireMario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BabyPeach.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BabyDaisy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_FireMario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_KingBoo.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Daisy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_FirePeach.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_FireLuigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BabyMario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Roy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Waluigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Peach.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Wario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/PopupSpecialStageAcademy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Ludwig.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BowserJr.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyWario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BowserJr.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Iggy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_BabyWario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Luma.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_DryBowser.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Luigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyMario.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Rosalina.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Larry.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_DonkeyKong.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Bowser.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Daisy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_GoombaTower.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_FireLuigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Blooper.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_KoopaTroopa.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Nabbit.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Toadette.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_PeteyPiranha.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_FirePeach.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Toad.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Ludwig.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Boo.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Kamek.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Wendy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Dolphin.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_DiddyKong.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_FireRosalina.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Lemmy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Lemmy.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_BabyLuigi.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Scout.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_PiranhaPlant.prefab
+- Assets/8.AssetBundle/DrAcademyOutgame/popup.specialstage.dracademy/SpecialOffer_Diamond_Bowser.prefab
+Dependencies:
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/specialoffer.banner
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/bg.dracademy
+- /Users/nhn/workspace/BuildAssetBundle_Android/AssetBundles/Android/font.nintendo

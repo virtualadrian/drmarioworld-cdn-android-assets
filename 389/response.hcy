@@ -1,0 +1,57 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 1141
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: CvOsqTor.AuqEcA5MG1iDGU0XUa-Xyh
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876271
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:18:54 GMT
+Cache-Control: public,max-age=300
+ETag: "8174ad937533bb8b13f9a2df2299c2c1"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3529bf84e9522012233c3dd2a59fdfe9.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: G7ExLBOrT2T22kyyTfiI2ODU_P88uecM4K7SkxofOWtSqLIFRpt7iw==
+
+ManifestFileVersion: 0
+CRC: 1206429843
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea9f10ed9a61f9225fd6cc05ede9bea0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02e4c384320ebf89b3b734fb8edcd00e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9f99599d2a30c34fa900eae0f54562c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Blocks/block.viruspink/Assets/Animation/Virus_Original_Pink_Ori.anim
+- Assets/8.AssetBundle/Blocks/block.viruspink/Assets/Textures/Cheek_New.png
+- Assets/8.AssetBundle/Blocks/block.viruspink/Assets/Textures/Body_New.png
+- Assets/8.AssetBundle/Blocks/block.viruspink/Assets/Textures/Eye_New.png
+- Assets/8.AssetBundle/Blocks/block.viruspink/VirusPink.prefab
+Dependencies: []

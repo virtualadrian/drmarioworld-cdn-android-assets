@@ -1,0 +1,138 @@
+HTTP/1.1 200 OK
+Content-Type: text/cache-manifest; charset=utf-8
+Content-Length: 6204
+Connection: keep-alive
+Server: VOS
+Accept-Ranges: bytes
+Last-Modified: Thu, 26 Aug 2021 05:57:32 GMT
+x-amz-version-id: FXoOh7cI0TteGVRwRXCfgjWJPRUO7Hv
+x-rgw-object-type: Normal
+x-amz-meta-mtime: 1629876272
+Strict-Transport-Security: max-age=15768000
+Date: Wed, 13 Oct 2021 16:19:11 GMT
+Cache-Control: public,max-age=300
+ETag: "c54b97b242f22310e852620ad3c4751c"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 ffa40c4091d11859ad05cf9748508c58.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ARN1-C1
+X-Amz-Cf-Id: H5w1iB9LyYXR84qzoCmiwqeeDaascPZ4Uxwt2eAiif54ft61Muo-AQ==
+
+ManifestFileVersion: 0
+CRC: 596032240
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ca4a6a34fd466c70d5db639ce4b2397f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c92ab8f7dd9c83919f6de9ecdf6ec46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d02ecdd8ecb9c544ba7265ffccec49c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_Star_10.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Light_06.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Skill_Gauge.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Card_Empty.png
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/attack.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Line_02.mat
+- Assets/8.AssetBundle/Characters/character.drluma/Materials/DrLuma_Normal_1.mat
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/skill.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Luma_Move_Blur.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Glow_17.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma.prefab
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Luma_Flare01.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Luma.png
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/hit.anim
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/skill_multi.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Glow_00.png
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/groggy_idle.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Particle_Star_17.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Glow_Line_03.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Smoke_03.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Luma_Line.png
+- Assets/8.AssetBundle/Characters/character.drluma/Materials/DrLuma_Rare_1.mat
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/groggy.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/MA_Luma_Glow02.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/EF_DrLuma.prefab
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Luma_Glow01.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Thumbnail.png
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/idle.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/EF_Skill_A_BG_DrLuma.prefab
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Smoke_03.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Line_02.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Particle_Star_17.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Thumbnail_Sad.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_00.png
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/AN_Skill_A_Dr.Donkeykong_BG.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Star_02.png
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Card.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_Star_18.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Luma_Move_Blur.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/AN_Skill_A_Dr.Luma.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Particle_00.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/AN_Skill_A_Dr.Luma_BG.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Light_06.mat
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/jump.anim
+- Assets/8.AssetBundle/Characters/character.drluma/Materials/Dr.luma_dif_Rare.png
+- Assets/8.AssetBundle/Characters/character.drluma/characterskillinfo_drluma.json
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/UI_Additive.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_Star_18.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Luma_Bag.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Glow_17.mat
+- Assets/8.AssetBundle/Characters/character.drluma/Anim/DrLuma.controller
+- Assets/8.AssetBundle/Characters/character.drluma/Materials/Dr.luma_dif.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Glow_00.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/AN_Skill_A_Dr.Luma_Move.anim
+- Assets/8.AssetBundle/Characters/character.drluma/FX/MA_Luma_Glow02.mat
+- Assets/8.AssetBundle/Characters/character.drluma/DrLumaModel.FBX
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_Star_10.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Star_02.mat
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma/MA_Particle_00_Add.mat
+- Assets/8.AssetBundle/Characters/character.drluma/DrLuma_Lobby_Gate_Flag.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/BG_Skill_A_Luma.png
+- Assets/8.AssetBundle/Characters/character.drluma/FX/Skill_A_Luma_BG/MA_Luma_Cloud.png
+Dependencies: []

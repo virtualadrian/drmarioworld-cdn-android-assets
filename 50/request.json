@@ -1,0 +1,18 @@
+{
+  "app": "com.nintendo.zama",
+  "duration": "339ms",
+  "headers": {
+    "X-Unity-Version": "2018.4.21f1",
+    "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)",
+    "Host": "game-lgmatcha.line-scdn.net",
+    "Connection": "Keep-Alive",
+    "Accept-Encoding": "gzip"
+  },
+  "method": "GET",
+  "protocol": "HTTP/1.1",
+  "remoteIp": "54.230.96.51",
+  "remotePort": 443,
+  "sessionId": "bef3e4c2-aac1-41ea-ac96-bec7e7dcbeba",
+  "time": "2021-10-13 21:20:12",
+  "url": "https://game-lgmatcha.line-scdn.net/r/real/AssetBundles/Android/829/worldmap.world14.manifest"
+}
