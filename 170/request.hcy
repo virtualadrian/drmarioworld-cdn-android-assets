@@ -1,7 +1,0 @@
-GET /r/real/AssetBundles/Android/829/league.box HTTP/1.1
-X-Unity-Version: 2018.4.21f1
-User-Agent: Dalvik/2.1.0 (Linux; U; Android 10; Mi A1 Build/QD4A.200905.003)
-Host: game-lgmatcha.line-scdn.net
-Connection: Keep-Alive
-Accept-Encoding: gzip
-
